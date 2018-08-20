@@ -253,13 +253,12 @@
   </url>
   
   <url>
-    <loc>https://danielanicolae.com/categories/</loc>
-    <priority>0</priority>
+    <loc>https://danielanicolae.com/</loc>
+    <lastmod>2018-08-20T05:35:20+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://danielanicolae.com/</loc>
-    <lastmod>2018-08-20T05:35:20+03:00</lastmod>
+    <loc>https://danielanicolae.com/categories/</loc>
     <priority>0</priority>
   </url>
   

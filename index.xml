@@ -166,32 +166,8 @@ MP5_Comunicarea Intr-o Retea Locala (LAN) - Partea 1</description>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
       <guid>https://danielanicolae.com/algoritmi/conexitate_grafuri_neorientate/</guid>
-      <description>Algoritmul Roy-Warshall:Exista drum intre nodul x si nodul y? #include &amp;lt;iostream&amp;gt;#include &amp;lt;conio.h&amp;gt;
-using namespace std;
-int main()
-{
-int n,i,a[100][100],j,k,x,y;
-cout&amp;lt;&amp;lt;&amp;quot;n=&amp;quot;;cin&amp;gt;&amp;gt;n;
-for(i=1;i&amp;lt;=n;i++)
-for(j=1;j&amp;lt;=n;j++)
-{cout&amp;lt;&amp;lt;&amp;quot;a[&amp;quot;&amp;lt;&amp;lt;i&amp;lt;&amp;lt;&amp;quot;][&amp;quot;&amp;lt;&amp;lt;j&amp;lt;&amp;lt;&amp;quot;]=&amp;quot;;
-cin&amp;gt;&amp;gt;a[i][j];
-}
-for(k=1;k&amp;lt;=n;k++)
-for(i=1;i&amp;lt;=n;i++)
-for(j=1;j&amp;lt;=n;j++)
-if(a[i][j]==0&amp;amp;&amp;amp; i!=k&amp;amp;&amp;amp;j!=k)
-a[i][j]=a[i][k]*a[k][j];
-cout&amp;lt;&amp;lt;&amp;quot;Nodul initial:&amp;quot;;cin&amp;gt;&amp;gt;x;
-cout&amp;lt;&amp;lt;&amp;quot;Nodul final:&amp;quot;;cin&amp;gt;&amp;gt;y;
-if(a[x][y]==1)
-cout&amp;lt;&amp;lt;&amp;quot;Exista drum intre nodul &amp;quot;&amp;lt;&amp;lt;x&amp;lt;&amp;lt;&amp;quot; si nodul &amp;quot;&amp;lt;&amp;lt;y&amp;lt;&amp;lt;&amp;quot;.&amp;quot;;
-else
-cout&amp;lt;&amp;lt;&amp;quot;NU exista drum intre nodul &amp;quot;&amp;lt;&amp;lt;x&amp;lt;&amp;lt;&amp;quot; si nodul &amp;quot;&amp;lt;&amp;lt;y&amp;lt;&amp;lt;&amp;quot;.&amp;quot;;
-getch();
-return 0;
-}
-Conexitate în grafuri neorientate.pptx  CONEXITATE IN GRAFURI NEORIENTATE</description>
+      <description>Algoritmul Roy-Warshall: Exista drum intre nodul x si nodul y?
+#include &amp;lt;iostream&amp;gt; #include &amp;lt;conio.h&amp;gt; using namespace std; int main() { int n,i,a[100][100],j,k,x,y; cout&amp;lt;&amp;lt;&amp;quot;n=&amp;quot;;cin&amp;gt;&amp;gt;n; for(i=1;i&amp;lt;=n;i++) for(j=1;j&amp;lt;=n;j++) {cout&amp;lt;&amp;lt;&amp;quot;a[&amp;quot;&amp;lt;&amp;lt;i&amp;lt;&amp;lt;&amp;quot;][&amp;quot;&amp;lt;&amp;lt;j&amp;lt;&amp;lt;&amp;quot;]=&amp;quot;; cin&amp;gt;&amp;gt;a[i][j]; } for(k=1;k&amp;lt;=n;k++) for(i=1;i&amp;lt;=n;i++) for(j=1;j&amp;lt;=n;j++) if(a[i][j]==0 &amp;amp;&amp;amp; i!=k &amp;amp;&amp;amp; j!=k) a[i][j]=a[i][k]*a[k][j]; cout&amp;lt;&amp;lt;&amp;quot;Nodul initial:&amp;quot;;cin&amp;gt;&amp;gt;x; cout&amp;lt;&amp;lt;&amp;quot;Nodul final:&amp;quot;;cin&amp;gt;&amp;gt;y; if(a[x][y]==1) cout&amp;lt;&amp;lt;&amp;quot;Exista drum intre nodul &amp;quot;&amp;lt;&amp;lt;x&amp;lt;&amp;lt;&amp;quot; si nodul &amp;quot;&amp;lt;&amp;lt;y&amp;lt;&amp;lt;&amp;quot;.&amp;quot;; else cout&amp;lt;&amp;lt;&amp;quot;NU exista drum intre nodul &amp;quot;&amp;lt;&amp;lt;x&amp;lt;&amp;lt;&amp;quot; si nodul &amp;quot;&amp;lt;&amp;lt;y&amp;lt;&amp;lt;&amp;quot;.&amp;quot;; getch(); return 0; }  Conexitate în grafuri neorientate.</description>
     </item>
     
     <item>

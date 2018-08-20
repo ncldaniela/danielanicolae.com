@@ -9,7 +9,7 @@
 
     <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
 <link rel="icon" href="/images/favicon.png" type="image/x-icon" />
-    <title>Tags :: Daniela Liliana Nicolae</title>
+    <title>InfoScience - Algoritmi :: Daniela Liliana Nicolae</title>
 
     
     <link href="/css/nucleus.css?1534736676" rel="stylesheet">
@@ -34,7 +34,7 @@
     </style>
     
   </head>
-  <body class="" data-url="/tags/">
+  <body class="" data-url="/algoritmi/infoscience_algoritmi/">
     <nav id="sidebar" class="showVisitedLinks">
 
 
@@ -74,7 +74,7 @@
   
     
     <li data-nav-id="/algoritmi/" title="Algoritmi" class="dd-item 
-        
+        parent
         
         
         ">
@@ -309,7 +309,7 @@
  
   
     
-      <li data-nav-id="/algoritmi/infoscience_algoritmi/" title="InfoScience - Algoritmi" class="dd-item ">
+      <li data-nav-id="/algoritmi/infoscience_algoritmi/" title="InfoScience - Algoritmi" class="dd-item active">
         <a href="/algoritmi/infoscience_algoritmi/">
         InfoScience - Algoritmi
         <i class="fas fa-check read-icon"></i>
@@ -1127,7 +1127,19 @@
                     
           
           
-            Tags
+            
+            
+          
+          
+            
+            
+          
+          
+            <a href='/'></a> > <a href='/algoritmi/'>Algoritmi</a> > InfoScience - Algoritmi
+          
+         
+          
+         
           
            
                   </span>
@@ -1147,17 +1159,36 @@
         
         <div id="body-inner">
           
-            <h1>Tags</h1>
+            <h1>InfoScience - Algoritmi</h1>
           
 
         
 
 
+<p><html>
+  <body>
+    <div class="wiki" id="content_view" style="display: block;">
+<span style="display: block; font-size: 150%; text-align: justify;"><strong><u><span style="text-decoration: none;">DRUMURI MINIME SI MAXIME IN GRAFURI</span></u></strong></span><span style="display: block; font-size: 150%; text-align: justify;">Considerăm un graf orientat <strong>G</strong><strong>=</strong><strong>(X,U)</strong> cu <strong>n</strong> noduri, în care fiecărui arc îi este asociat un număr întreg numit <em>cost</em>. Semnificaţia acestui cost poate fi foarte variată, în funcţie de domeniul pe care îl descrie graful. De exemplu, dacă graful reprezintă harta unui oraş în care arcele sunt străzile, iar nodurile sunt intersecţiile dintre stăyi, atunci putem vorbi despre costul deplasării unui automobil între două intersecţii, de-a lungul unei străzi. Acesta s-ar putea măsura în cantitatea de benzină consumată, calculată prin prisma lungimii străzii în <em>m</em> sau in <em>km</em>.</span><span style="display: block; font-size: 150%; text-align: justify;"><u>MATRICEA COSTURILOR</u></span><span style="display: block; font-size: 150%; text-align: justify;">Pentru evidenţierea costurilor tuturor arcelor unui graf cu <strong>n</strong> noduri se poate defini o matrice <strong>a</strong>, cu <strong>n</strong> linii <strong>*n</strong> coloane.există două forme ale acestei matrici:</span><span style="display: block; font-size: 150%; text-align: justify;"><em><u>Forma a):</u></em> Fiecare element <strong>a[i,j]</strong> poate fi:</span><span style="display: block; font-size: 150%; text-align: justify;">-<strong>c</strong>, dacă există un arc de cost <strong>c&gt;0</strong> între nodurile <strong>i</strong> şi <strong>j</strong>;</span><span style="display: block; font-size: 150%; text-align: justify;">-0, dacă <strong>i</strong><strong>=j</strong><strong>;</strong></span><span style="display: block; font-size: 150%; text-align: justify;"><strong>-</strong>+<span style="font-family: Symbol;">infinit</span>, dacă nu există arc între nodurile <strong>i</strong> şi <strong>j</strong>.</span><span style="display: block; font-size: 150%; text-align: justify;"><em><u>Forma b):</u></em> Este absolut similară, cu singura deosebire că în loc de +<span style="line-height: 1.5;">infinit</span> avem -<span style="line-height: 1.5;">infinit</span>.</span><span style="display: block; font-size: 150%; text-align: justify;">Forma a)se foloseşte pentru determinarea drumurilor de cost minim între două noduri, iar forma b) este utilizată în aflarea drumurilor de cost maxim.</span><span style="display: block; font-size: 150%; text-align: justify;">Dacă dorim să citim matricea costurilor, evident că nu putem introduce de la tastatură “+infinit”! În loc de “+<span style="line-height: 1.5;">infinit</span>” vom da un numar de la tastatură foarte mare.</span><span style="display: block; font-size: 150%; text-align: justify;">Problema determinării drumului minim/ maxim între două noduri face obiectul algoritmului următor.</span><span style="display: block; font-size: 150%; text-align: justify;"><u>Algoritmul Roy-Floyd</u></span><span style="display: block; font-size: 150%; text-align: justify;">Se consideră un graf orientat cu <strong>n</strong> noduri, pentru care se dă matricea costurilor în <em>forma a).</em> Se cere ca, pentru fiecare pereche de noduri <strong>(i, j)</strong>, să se tipărească costul drumului minim de la <strong>i</strong> la <strong>j.</strong></span><span style="display: block; font-size: 150%; text-align: justify;">Plecăm de la următoarea idee: dacă drumul minim între două noduri oarecare <strong>i</strong> şi <strong>j</strong> trece printr-un nod <strong>k</strong>, atunci drumurile de la <strong>i</strong> la <strong>k</strong> şi de la <strong>k</strong> la <strong>j</strong> sunt la rândul lor minime. Pentru fiecare pereche de noduri <strong>(i, j )</strong>, cu <strong>i, j</strong> apartinand multimii <strong>{1,2,…,n}</strong>, procedăm astfel:</span><br />
+<h4 id="toc0"><a name="x---Dăm lui k** pe rând valorile **1,2,…,n**, pentru ca nodul **k** despre care vorbeam mai sus poate fi, cel puţin teoretic, orice nod al grafului. Pentru fiecare **k:"></a>Dăm lui <strong>k</strong> pe rând valorile <strong>1,2,…,n</strong>, pentru ca nodul <strong>k</strong> despre care vorbeam mai sus poate fi, cel puţin teoretic, orice nod al grafului. Pentru fiecare <strong>k</strong>:</h4>
+ <br />
+<ul><ul><li><span style="font-size: 18.6667px;">dacă suma dintre costul drumului de la <strong>i</strong> la <strong>k</strong> şi costul drumului de la <strong>k</strong> la <strong>j</strong> este mai mică decât costul drumului de la <strong>i</strong> la <strong>j</strong> </span><strong><span style="font-size: 18.6667px;">{a[i, k]+a[k, j]&lt;a[i, j]}</span></strong><span style="font-size: 18.6667px;">, atunci drumul iniţial de la </span><strong><span style="font-size: 18.6667px;">i </span></strong><span style="font-size: 18.6667px;">la <strong>j</strong> este înlocuit cu drumul indirect <strong>i</strong></span><strong><span style="font-family: Symbol; font-size: 18.6667px;">-</span></strong><strong><span style="font-size: 18.6667px;">k</span></strong><strong><span style="font-family: Symbol; font-size: 18.6667px;">-</span></strong><strong><span style="font-size: 18.6667px;">j.</span></strong><span style="font-size: 18.6667px;"> această înlocuire fireşte că se va opera ca atare în matrocea costurilor: <strong>{a[i, j]:=a[i, k]+a[k, j]}</strong>.</span></li></ul></ul><span style="display: block; font-size: 150%; text-align: justify;">Prezentăm în continuare procedura <strong>generare</strong> care conţine algoritmul descris:</span><span style="display: block; font-size: 150%; text-align: justify;"><strong>Procedure generare</strong><strong>;</strong></span><span style="display: block; font-size: 150%; text-align: justify;"><strong>var i,j,k:integer;</strong></span><span style="display: block; font-size: 150%; text-align: justify;"><strong>begin</strong></span><span style="display: block; font-size: 150%; text-align: justify;"><strong>for k:=1 to n do</strong></span><span style="display: block; font-size: 150%; text-align: justify;"><strong>for i:=1 to n do</strong></span><span style="display: block; font-size: 150%; text-align: justify;"><strong>for j:=1 to n do</strong></span><span style="display: block; font-size: 150%; text-align: justify;"><strong>if a[i, k]+a[k, j]&lt;a[i, j] then a[i, j]:=a[i, k]+a[k, j];</strong></span><span style="display: block; font-size: 150%; text-align: justify;"><strong>end;</strong></span><br />
+<h4 id="toc1"><a name="x---Observatii"></a><u><span style="font-size: 150%; line-height: 1.5;">Observati</span></u><span style="font-size: 150%; line-height: 1.5;">i</span></h4>
+ <ul><li><h4 id="toc2"><a name="x---Drumurile minime între toate nodurile se regăsesc la sfarsitul algoritmului tot în matricea costurilor, care a suferit n** trasformări, pentru **k=1,2,…,n."></a><span style="font-size: 150%;">Drumurile minime între toate nodurile se regăsesc la sfarsitul algoritmului tot în matricea costurilor, care a suferit <strong>n</strong> trasformări, pentru <strong>k=1,2,…,n.</strong></span></h4>
+</li><li><h4 id="toc3"><a name="x---Unele elemente pot fi +infinit, iar pentru simularea lui +infinit am spus că se introduce un număr întreg foarte mare. Prin adunări repetate a două numere întregi foarte mari putem ajunge la un rezultat care depăşeşte cea mai mare valoare posibilă de tipul integer**. De aceea, recomandăm ca elementele matricei costurilor să fie de tipul **longint."></a><span style="font-size: 150%;">Unele elemente pot fi +<span style="font-family: Symbol;">infinit</span>, iar pentru simularea lui +<span style="font-family: Symbol;">infinit</span> am spus că se introduce un număr întreg foarte mare. Prin adunări repetate a două numere întregi foarte mari putem ajunge la un rezultat care depăşeşte cea mai mare valoare posibilă de tipul <strong>integer</strong>. De aceea, recomandăm ca elementele matricei costurilor să fie de tipul <strong>longint.</strong></span></h4>
+</li><li><h4 id="toc4"><a name="x---În cazul în care problema cerea pentru fiecare pereche de noduri (i, j) costul drumului maxim, modificările necesare ar fi minore:"></a><span style="font-size: 150%;">În cazul în care problema cerea pentru fiecare pereche de noduri <strong>(i, j)</strong> costul drumului maxim, modificările necesare ar fi minore:</span></h4>
+</li></ul><span style="display: block; font-size: 150%; text-align: justify;">- se foloseşte <em>forma b)</em> a matricei costurilor;</span><span style="display: block; font-size: 150%; text-align: justify;">- condiţia testată în linia <strong>if</strong> devine “<strong>a[i, k]+a[k, j]&lt;a[i, j]”</strong></span><span style="display: block; font-size: 150%; text-align: justify;"><br />
+<strong><span style="color: #008000;">Algoritmul Roy Floyd</span></strong> (determină costul minim al drumului dintre oricare două vârfuri x, y, precum şi un astfel de drum.)<br />
+<a class="wiki_link_ext" href="http://www.liis.ro/~ema/proiecte/soft/2005/drum/%2B%20prezentare/flash/cod_rf.swf" rel="nofollow"><a href="http://www.liis.ro/~ema/proiecte/soft/2005/drum/%2B%20prezentare/flash/cod_rf.swf">http://www.liis.ro/~ema/proiecte/soft/2005/drum/%2B%20prezentare/flash/cod_rf.swf</a></a><br />
+</span>
+    </div>
+  </body>
+</html></p>
 
 
 <footer class=" footline" >
 	
 </footer>
+
 
         
         </div> 
@@ -1190,8 +1221,6 @@
             
                 
                     
-                        
-                        
                     
                 
                 
@@ -1205,6 +1234,9 @@
             
             
                 
+                    
+                        
+                        
                     
                 
                 
@@ -1382,6 +1414,26 @@
             
                 
                     
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
                 
                 
 
@@ -1536,102 +1588,6 @@
                     
             
         
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
                     
                         
             
@@ -1857,6 +1813,22 @@
             
         
                     
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
                         
             
             
@@ -1985,6 +1957,70 @@
             
         
                     
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
             
         
                     
@@ -1995,8 +2031,10 @@
 
 
         
+            <a class="nav nav-prev" href="/algoritmi/infoscience/" title="InfoScience"> <i class="fas fa-chevron-left"></i></a>
         
-            <a class="nav nav-next" href="/algoritmi/" title="Algoritmi" style="margin-right: 0px;"><i class="fas fa-chevron-right"></i></a>
+        
+            <a class="nav nav-next" href="/algoritmi/liste_liniare/" title="Liste Liniare" style="margin-right: 0px;"><i class="fas fa-chevron-right"></i></a>
         
     </div>
 
@@ -2026,3 +2064,4 @@
 
   </body>
 </html>
+

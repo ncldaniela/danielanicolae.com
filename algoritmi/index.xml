@@ -1,39 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Daniela Liliana Nicolae</title>
-    <link>https://danielanicolae.com/</link>
-    <description>Recent content on Daniela Liliana Nicolae</description>
+    <title>Algoritmi on Daniela Liliana Nicolae</title>
+    <link>https://danielanicolae.com/algoritmi/</link>
+    <description>Recent content in Algoritmi on Daniela Liliana Nicolae</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Aug 2018 05:35:20 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Aug 2018 03:14:29 +0300</lastBuildDate>
     
-	<atom:link href="https://danielanicolae.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://danielanicolae.com/algoritmi/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Ora de Dirigentie</title>
-      <link>https://danielanicolae.com/diverse/ora_de_dirigentie/</link>
-      <pubDate>Mon, 20 Aug 2018 05:35:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/diverse/ora_de_dirigentie/</guid>
-      <description>ORA DE DIRIGENTIE ON LINE:
-http://localhost/Login2.aspx?loginRedirect=/default.aspx http://ler.is.edu.ro/~oradedirigentie/siveco/index.php Informatii, exemple.. privind completarea unui CV http://www.europass-ro.ro
-Ghid de prezentare la un interviu descarcat de aici http://www.europass-ro.ro/index.php?page=materiale
-pregatire_interviu.ppt</description>
-    </item>
-    
-    <item>
-      <title>Access</title>
-      <link>https://danielanicolae.com/baze_de_date/access/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/baze_de_date/access/</guid>
-      <description>Microsoft Access 2007.ppt
-Interogări (Query) Interogările reprezintă modalităţi de selecţie şi afişare a informaţie din unul sau mai multe surse (tabele sau alte interogări), formulate cu ajutorul unor condiţii logice. 
-Tipuri de interogări În funcţie de modul de definire şi rezultatele acţiunii, interogarile pot fi clasificate astfel:
-interogări simple sau de selecţie (folosind condiţii logice);interogări pentru actualizare - delete query, update query şi append query;interogări încrucişate sau bidimensionale.</description>
-    </item>
     
     <item>
       <title>Algoritmi</title>
@@ -60,31 +36,6 @@ Se citesc sirurile: Se afiseaza in BAC.</description>
     </item>
     
     <item>
-      <title>Arbori</title>
-      <link>https://danielanicolae.com/structuri_de_date/arbori/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/structuri_de_date/arbori/</guid>
-      <description>Fie un graf neorientat G=(V,U), unde V e mulțimea vârfurilor, iar U cea a muchiilor sale. Următoarele afirmații sunt echivalente:
-1. Geste arbore.
-2. Geste un graf conex minimal („minimal” se numește proprietatea unui graf, că dacă i se elimină orice muchie, se obține un graf neconex).
-3. Geste un graf fără cicluri maximal („maximal” se numește proprietatea unui graf, că dacă i se adaugă orice muchie, se obține un graf care are măcar un ciclu, și deci nu e arbore).</description>
-    </item>
-    
-    <item>
-      <title>Arbori de Cautare</title>
-      <link>https://danielanicolae.com/structuri_de_date/arbori_de_cautare/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/structuri_de_date/arbori_de_cautare/</guid>
-      <description>Arbori de cautare.docx
-B TREES
-b-trees.ppt
-DEFINITII COMPLEXE
-arbori.pdf</description>
-    </item>
-    
-    <item>
       <title>Backtracking</title>
       <link>https://danielanicolae.com/algoritmi/backtracking/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
@@ -94,70 +45,12 @@ arbori.pdf</description>
     </item>
     
     <item>
-      <title>Baze de Date</title>
-      <link>https://danielanicolae.com/baze_de_date/baze_de_date/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/baze_de_date/baze_de_date/</guid>
-      <description>Proiectarea bazelor de date from aaa zAZ</description>
-    </item>
-    
-    <item>
       <title>C Builder</title>
       <link>https://danielanicolae.com/algoritmi/c_builder/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
       <guid>https://danielanicolae.com/algoritmi/c_builder/</guid>
       <description>C++Builder</description>
-    </item>
-    
-    <item>
-      <title>Compilatoare MinGW</title>
-      <link>https://danielanicolae.com/diverse/compilatoare_mingw/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/diverse/compilatoare_mingw/</guid>
-      <description>La adresa :
-http://infoarena.ro/schimbare-borland/pachet
-alegeti :
-Pachet cu compilatorul MinGW 4.4, GDB 7.1 si Code::Blocks
-http://www.cprogramming.com/code_blocks/</description>
-    </item>
-    
-    <item>
-      <title>Compilatoare MinGW</title>
-      <link>https://danielanicolae.com/diverse/foxpro/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/diverse/foxpro/</guid>
-      <description>DomnulTudor - FOXPRO    Baze de Date in Visual Foxpro.pdf SGBD.pdf Visual-Foxpro-Decriptat.pdf  FOXPRO_SUPORT_DE_CURS.pdfVisual_Fox_Pro1.doc
-Comenzi_Fox_Pro.docVisual_FoxPro2.doc  PROGRAMARE STRUCTURATA-INSTRUCTIUNI.docx SUBPROGRAME.docx TESTE TEST.pdf
-TEST1.doc
-TEST2.doc
-TEST3.doc
-TEST4.doc
-TEST5.doc
-TEST6.doc
-FISE DE LUCRU aplicatii foxpro.doc
-FISA DE LUCRU1.pdf
-FISE DE LUCRU 3.pdf
-FISE DE LUCRU 2.pdf
-FISE DE LUCRU.pdfAPLICATII CU SUBPROGRAME.docx</description>
-    </item>
-    
-    <item>
-      <title>Comunicarea intr-o Retea Locala</title>
-      <link>https://danielanicolae.com/diverse/comunicarea_re%C5%A3ea_locala/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/diverse/comunicarea_re%C5%A3ea_locala/</guid>
-      <description>1. Functionarea echipamentelor intr-o retea locala.pdf huburi versus switch-uri versus routere.docx
-2. Medii de comunicare prin fire de cupru.pdf 3. Medii de comunicare prin fibra optica.pdf
-Fisa_Tema3.doc MP6_Comunicarea intr-o retea locala (LAN) - partea 2.doc
-SUPORT DE INVATARE ONLINE
-Cum diferă huburile, switchurile, ruterele și punctele de acces?
-WIKIPEDIA-Echipamente pentru realizarea rețelelor de calculatoare
-MP5_Comunicarea Intr-o Retea Locala (LAN) - Partea 1</description>
     </item>
     
     <item>
@@ -214,27 +107,6 @@ Nu toate problemele pot fi rezolvate prin utilizarea acestei tehnici.</descripti
     </item>
     
     <item>
-      <title>E-Learning</title>
-      <link>https://danielanicolae.com/diverse/e-learning/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/diverse/e-learning/</guid>
-      <description>Platforma Moodle Manual_profesor_platforma_elearning.pdf</description>
-    </item>
-    
-    <item>
-      <title>Evaluare Portofolii</title>
-      <link>https://danielanicolae.com/diverse/evaluare_portofolii/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/diverse/evaluare_portofolii/</guid>
-      <description>Materiale care va vor ajuta in evaluarea/autoevaluarea propriului demers didactic fi_deobserva_ieechipe.doc
-grila_criterii_prezentare.doc
-Notare_potofoliu.doc
-Autoevaluare_colaborare_echipa.doc</description>
-    </item>
-    
-    <item>
       <title>Expresii</title>
       <link>https://danielanicolae.com/algoritmi/expresii/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
@@ -273,28 +145,6 @@ Crearea unui fisier cu date ce urmeaza a fi citite prin program</description>
     </item>
     
     <item>
-      <title>Grafuri Neorientate</title>
-      <link>https://danielanicolae.com/structuri_de_date/grafuri_neorientate/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/structuri_de_date/grafuri_neorientate/</guid>
-      <description>NOŢIUNI INTRODUCTIVE. DEFINIŢII Grafuri_neorientate.doc METODE DE REPREZENTARE Există mai multe moduri de reprezentare a grafurilor, alegerea făcându-se în funcţie de tipurile de operaţii care urmează să se efectueze:
-1. Matricea de adiacenţă: face o asociere între noduri şi indicii matricei. Este o matrice simentrică faţă de diagonala principală, cu nXn elemente, unde n este numărul de noduri.
-aij= 1, dacă muchia [i,j] există
-0, dacă muchia [i,j] nu există</description>
-    </item>
-    
-    <item>
-      <title>Grafuri Orientate</title>
-      <link>https://danielanicolae.com/structuri_de_date/grafuri_orientate/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/structuri_de_date/grafuri_orientate/</guid>
-      <description>NOŢIUNI INTRODUCTIVE. DEFINIŢII Grafuri_orientate.docx
-GRAFURI_ORIENTATE.pdf</description>
-    </item>
-    
-    <item>
       <title>Greedy</title>
       <link>https://danielanicolae.com/algoritmi/greedy/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
@@ -303,16 +153,6 @@ GRAFURI_ORIENTATE.pdf</description>
       <description>Metoda Greedy
 “De alegerea strategiei depinde atât timpul de rezolvare cât și calitatea soluției gasite“
 1. Descrierea metodei Se dă o mulţime A cu n elemente şi se cere să se determine o submulţime a sa(B) care satisface anumite restricţii. Această submulţime se numeşte soluţie posibilă. Se cere să se determine o soluţie posibilă care fie să maximizeze fie să minimizeze o anumită funcţie obiectiv dată. Această soluţie posibilă se numeşte soluţie optimă.</description>
-    </item>
-    
-    <item>
-      <title>HTML</title>
-      <link>https://danielanicolae.com/diverse/html/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/diverse/html/</guid>
-      <description>Planificarea site-ului Planificarea site-ului contine urmatoarele etape:
-Stabilirea audienţeiStabilirea scopuluiDefinirea obiectivelorColectarea informaţiilor despre subiectul prezentatStabilirea specificaţiilorStabilirea modului de prezentareStabilirea audienţei Pentru a crea un site de calitate şi o comunicare eficientă a informaţiilor, o etapă deosebit de importantă este definirea audienţei site-ului. Audienţa reprezintă publicul căruia i se adresează site-ul. Stabilirea audienţei site-ului dumneavoastră este esenţială deoarece contribuie la definirea conţinutului paginilor, precum şi a organizării şi aspectului său.</description>
     </item>
     
     <item>
@@ -361,22 +201,6 @@ Avantajul alocarii dinamice fata de alocarea acelorasi structuri de date in mod 
     </item>
     
     <item>
-      <title>Mate Bacalaureat</title>
-      <link>https://danielanicolae.com/diverse/mate_bac/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/diverse/mate_bac/</guid>
-      <description>DomnulTudor - MATE BAC   modul_parte_putere_radical_ecuatii_si_inecuatii_teorie.doc TEORIE MATE LICEU STAN ADRIAN.pdf
-inductieteorie.doc inductieprobleme.doc
-0_progresii_aritmetice_si_geometrice.doc puterisiradicalibun.PDF
-modulubun.PDF inegalitatibun.PDF
-Site-uri utile math-pdr.com
-matematica.noads.biz
-matepe.net
-mateinfo.ro/formule-matematica</description>
-    </item>
-    
-    <item>
       <title>Metode de Sortare</title>
       <link>https://danielanicolae.com/algoritmi/metode_de_sortare/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
@@ -400,28 +224,6 @@ Alte materiale de invatare avizate, elaborate prin proiectul “ Învățământ
     </item>
     
     <item>
-      <title>Oracle</title>
-      <link>https://danielanicolae.com/baze_de_date/oracle/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/baze_de_date/oracle/</guid>
-      <description>Comanda UPDATE Comanda UPDATEeste folosită pentru a modifica valorile datelor existente în tabele. 
-Sintaxa uzuală a comenzii UPDATE prezintă următoarele variante:
-1)
-UPDATE tabel 
-SET coloana1 = expresie1,
-coloana2 = expresie2, &amp;hellip;
-[WHERE condiţie];
-2)
-UPDATE tabel 
-SET coloana1 = expresie1,
-coloana2 = expresie2, &amp;hellip;
-FROM tabele_cuplate
-[WHERE condiţie];
-Clauza FROM este o extensie specifica SQL Server, inexistenta în standardul SQL92 . Prin această extensie se poate specifica o cuplare de mai multe tabele care se poate folosi în locul unei fraze Select imbricată în clauza WHERE.</description>
-    </item>
-    
-    <item>
       <title>Parcurgerea Grafurilor</title>
       <link>https://danielanicolae.com/algoritmi/parcurgerea_grafurilor/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
@@ -439,19 +241,6 @@ parcurgerea în lăţime:se parcurge mai întâi nodul iniţial, apoi vecinii ac
       
       <guid>https://danielanicolae.com/algoritmi/pointeri_referinte/</guid>
       <description>Referinte si Pointeri.pdf</description>
-    </item>
-    
-    <item>
-      <title>Programare FoxPRO</title>
-      <link>https://danielanicolae.com/diverse/programare_foxpro/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/diverse/programare_foxpro/</guid>
-      <description>Mecanismele programarii în Visual FoxPro
-Programarea în Visual FoxPro implica scrierea unor secvente de cod: instructiuni sub forma de comenzi, functii sau operatii pe care Visual FoxPro le poate interpreta. Acestea pot fi introduse în:
-- fisiere de programe;
-- ferestre de cod pentru evenimente sau metode în cadrul proiectantului de formulare (Form Designer) sau al proiectantului de clase (Class Designer);
-- ferestre procedurale în cadrul proiectantului de meniuri (Menu Designer);</description>
     </item>
     
     <item>
@@ -496,16 +285,6 @@ DIJKSTRA DIJKSTRA.docx</description>
     </item>
     
     <item>
-      <title>SQL</title>
-      <link>https://danielanicolae.com/baze_de_date/sql/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/baze_de_date/sql/</guid>
-      <description>Curs Bd.pdf APLICATII TEST 1.docx MEMENTO Limbajul SQL.pdf
-TEST 2.docx teste grila sql.pdf</description>
-    </item>
-    
-    <item>
       <title>Siruri de Caractere</title>
       <link>https://danielanicolae.com/algoritmi/siruri_de_caractere/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
@@ -547,25 +326,6 @@ cout&amp;lt;&amp;lt;&amp;quot;sirul fara vocale=&amp;quot;&amp;lt;&amp;lt;s;
     </item>
     
     <item>
-      <title>Subiecte Atestat</title>
-      <link>https://danielanicolae.com/diverse/subiecte_atestat/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/diverse/subiecte_atestat/</guid>
-      <description>SUBIECTE_ATESTAT_INFORMATICA_2016 (1).pdf
-http://www.itlearning.ro/tutorials/tutorial
-http://www.officespecialist.ro/
-http://www.drexcel.ro/
-tutoriale Word
-Modele subiecte competente digitale  http://www.competentedigitale.ro/
-aici SI AICI COMPETENTE 2009-2010.rarSI AICI COMPETENTE2 2009-2010.rarSI AICI COMPETENTE3 2009-2010.rar Olivia Pascu
-http://www.test-e.ro/
-prima culegere de Tehnologia Informatiilor si a Comunicatiilor în format electronic, ttest-eTIC
-access
- Tipuri De Date Si Proprietati from Lavric</description>
-    </item>
-    
-    <item>
       <title>Subprograme</title>
       <link>https://danielanicolae.com/algoritmi/subprograme/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
@@ -589,23 +349,6 @@ http://info.mcip.ro/?cap=TablourI</description>
     </item>
     
     <item>
-      <title>Tehnologia Informatiei si a Comunicatiilor</title>
-      <link>https://danielanicolae.com/diverse/tic/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/diverse/tic/</guid>
-      <description>DomnulTudor - Tehnologia informatiei si a comunicatiilor    Arhitectura unui sistem de calcul 1arhitectura_sc.pptx Arhitectura unui sistem de calcul 2 prezentareacalculatorului.ppt Sistemul de operare Windows.Operatii cu fisiere5ISTEMUL-DE-OPERARE-WINDOWS.doc FISE DE LUCRU ARHITECTURA SC_SISTEME DE OPERARE ARHITECTURA_SO.rar Internet INTERNET.doc  WORD  EXCEL  POWERPOINT    fisa_de_lucru_tabele2.doc
- test2excel.docx
- 5_aplicatii.doc
-   fisa_de_lucru_tabele.doc
- test1excel.doc
- testcubutoanedeactiune.pdf
-   fise_word.doc
- FISADELUCRU.doc
- FISA_LUCRU_POWERPOINT.</description>
-    </item>
-    
-    <item>
       <title>Tipul Struct</title>
       <link>https://danielanicolae.com/algoritmi/tipul_struct/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
@@ -622,20 +365,6 @@ tip2 membrii;
 tipn membrii;
 }[lista_declaratori]; variabile de tip structura
 nume_structura saulista_declaratori pot lipsi, dar nu simultan.</description>
-    </item>
-    
-    <item>
-      <title>Tipuri de Date in FoxPRO</title>
-      <link>https://danielanicolae.com/diverse/tipuri_de_date_foxpro/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/diverse/tipuri_de_date_foxpro/</guid>
-      <description>Tipuri de date şi funcţii standardîn FoxPro
-Datele cu care lucrează FoxPro sunt de tip numeric, caracter, data calendaristică, logic. Asupra acestor tipuri de date s-au definit operaţii specifice şi au fost realizate funcţii standard dintre care cele mai des folosite vor fi explicate în continuare.
-Funcţii uzuale asupra tuturor tipurilor de date:
- MAX (&amp;lt;e1&amp;gt;,&amp;lt;e2&amp;gt;)
- calculează maximul dintre două valori &amp;lt;e1&amp;gt; şi &amp;lt;e2&amp;gt;
-   MIN (&amp;lt;e1&amp;gt;,&amp;lt;e2&amp;gt;)</description>
     </item>
     
   </channel>

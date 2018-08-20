@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programare on Daniela Liliana Nicolae</title>
-    <link>https://ncldaniela.github.io/programare/</link>
+    <link>https://danielanicolae.com/programare/</link>
     <description>Recent content in Programare on Daniela Liliana Nicolae</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Aug 2018 03:14:29 +0300</lastBuildDate>
     
-	<atom:link href="https://ncldaniela.github.io/programare/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://danielanicolae.com/programare/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Access</title>
-      <link>https://ncldaniela.github.io/programare/access/</link>
+      <link>https://danielanicolae.com/programare/access/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/access/</guid>
+      <guid>https://danielanicolae.com/programare/access/</guid>
       <description>Microsoft Access 2007.ppt
 Interogări (Query) Interogările reprezintă modalităţi de selecţie şi afişare a informaţie din unul sau mai multe surse (tabele sau alte interogări), formulate cu ajutorul unor condiţii logice. 
 Tipuri de interogări În funcţie de modul de definire şi rezultatele acţiunii, interogarile pot fi clasificate astfel:
@@ -25,10 +25,10 @@ interogări simple sau de selecţie (folosind condiţii logice);interogări pent
     
     <item>
       <title>Algoritmi</title>
-      <link>https://ncldaniela.github.io/programare/algoritmi/</link>
+      <link>https://danielanicolae.com/programare/algoritmi/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/algoritmi/</guid>
+      <guid>https://danielanicolae.com/programare/algoritmi/</guid>
       <description>INFORMATICA
 Informatica este stiinta care se ocupa cu studiul reprezentarii si organizarii informatiei precum si cu studiul algotitmilor de prelucrare a informatiei cu ajutorul unui calculator.
 ALGORITM
@@ -37,10 +37,10 @@ Un algoritm reprezinta o metoda de rezolvare a problemelor de un anumit tip.A re
     
     <item>
       <title>Aplicatii Complexe</title>
-      <link>https://ncldaniela.github.io/programare/aplicatii_complexe/</link>
+      <link>https://danielanicolae.com/programare/aplicatii_complexe/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/aplicatii_complexe/</guid>
+      <guid>https://danielanicolae.com/programare/aplicatii_complexe/</guid>
       <description>APLICATII COMPLEXE
 1.Scrieti un program C/C++ care citeste de la tastatura doua siruri de caractere formate din litere mici. Sa se creeze fisierul BAC.TXT in care sa scrie unul din cele doua siruri care se dovedeste a fi o subsecventa a celuilalt sir. Daca cele doua siruri nu au aceasta proprietate atunci in fisierul BAC.TXT se va scrie textul “FARA SOLUTIE”.
 Exemplu:
@@ -49,10 +49,10 @@ Se citesc sirurile: Se afiseaza in BAC.</description>
     
     <item>
       <title>Arbori</title>
-      <link>https://ncldaniela.github.io/programare/arbori/</link>
+      <link>https://danielanicolae.com/programare/arbori/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/arbori/</guid>
+      <guid>https://danielanicolae.com/programare/arbori/</guid>
       <description>Fie un graf neorientat G=(V,U), unde V e mulțimea vârfurilor, iar U cea a muchiilor sale. Următoarele afirmații sunt echivalente:
 1. Geste arbore.
 2. Geste un graf conex minimal („minimal” se numește proprietatea unui graf, că dacă i se elimină orice muchie, se obține un graf neconex).
@@ -61,10 +61,10 @@ Se citesc sirurile: Se afiseaza in BAC.</description>
     
     <item>
       <title>Arbori de Cautare</title>
-      <link>https://ncldaniela.github.io/programare/arbori_de_cautare/</link>
+      <link>https://danielanicolae.com/programare/arbori_de_cautare/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/arbori_de_cautare/</guid>
+      <guid>https://danielanicolae.com/programare/arbori_de_cautare/</guid>
       <description>Arbori de cautare.docx
 B TREES
 b-trees.ppt
@@ -74,37 +74,37 @@ arbori.pdf</description>
     
     <item>
       <title>Backtracking</title>
-      <link>https://ncldaniela.github.io/programare/backtracking/</link>
+      <link>https://danielanicolae.com/programare/backtracking/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/backtracking/</guid>
+      <guid>https://danielanicolae.com/programare/backtracking/</guid>
       <description>Metoda backtracking se aplica problemelor in care solutia se poate prezenta sub forma unui vector x={x1,x2,…,xn} unde x1 apartine unei multimi S1, x2 apartine multimii S2 s.a.m.d.Si i=1…n sunt multimi finite. Cerinta problemei este, de obicei, gasirea tuturor solutiilor posibile sau gasirea numarului de solutii care satisfac anumite conditii specifice problemei. De multe ori metoda se foloseste si pentru gasirea unei singure solutii (dupa gasirea acesteia se intrerupe executia programului), a unei solutii maxime/minime insa, pentru astfel de cazuri recomandam gasirea unei alte solutii de rezolvare datorita faptului ca metoda Backtracking consuma resurse mari de memorie si timp.</description>
     </item>
     
     <item>
       <title>Baze de Date</title>
-      <link>https://ncldaniela.github.io/programare/baze_de_date/</link>
+      <link>https://danielanicolae.com/programare/baze_de_date/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/baze_de_date/</guid>
+      <guid>https://danielanicolae.com/programare/baze_de_date/</guid>
       <description>Proiectarea bazelor de date from aaa zAZ</description>
     </item>
     
     <item>
       <title>C Builder</title>
-      <link>https://ncldaniela.github.io/programare/c_builder/</link>
+      <link>https://danielanicolae.com/programare/c_builder/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/c_builder/</guid>
+      <guid>https://danielanicolae.com/programare/c_builder/</guid>
       <description>C++Builder</description>
     </item>
     
     <item>
       <title>Compilatoare MinGW</title>
-      <link>https://ncldaniela.github.io/programare/compilatoare_mingw/</link>
+      <link>https://danielanicolae.com/programare/compilatoare_mingw/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/compilatoare_mingw/</guid>
+      <guid>https://danielanicolae.com/programare/compilatoare_mingw/</guid>
       <description>La adresa :
 http://infoarena.ro/schimbare-borland/pachet
 alegeti :
@@ -114,10 +114,10 @@ http://www.cprogramming.com/code_blocks/</description>
     
     <item>
       <title>Compilatoare MinGW</title>
-      <link>https://ncldaniela.github.io/programare/foxpro/</link>
+      <link>https://danielanicolae.com/programare/foxpro/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/foxpro/</guid>
+      <guid>https://danielanicolae.com/programare/foxpro/</guid>
       <description>DomnulTudor - FOXPRO    Baze de Date in Visual Foxpro.pdf SGBD.pdf Visual-Foxpro-Decriptat.pdf  FOXPRO_SUPORT_DE_CURS.pdfVisual_Fox_Pro1.doc
 Comenzi_Fox_Pro.docVisual_FoxPro2.doc  PROGRAMARE STRUCTURATA-INSTRUCTIUNI.docx SUBPROGRAME.docx TESTE TEST.pdf
 TEST1.doc
@@ -135,10 +135,10 @@ FISE DE LUCRU.pdfAPLICATII CU SUBPROGRAME.docx</description>
     
     <item>
       <title>Comunicarea intr-o Retea Locala</title>
-      <link>https://ncldaniela.github.io/programare/comunicarea_re%C5%A3ea_locala/</link>
+      <link>https://danielanicolae.com/programare/comunicarea_re%C5%A3ea_locala/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/comunicarea_re%C5%A3ea_locala/</guid>
+      <guid>https://danielanicolae.com/programare/comunicarea_re%C5%A3ea_locala/</guid>
       <description>1. Functionarea echipamentelor intr-o retea locala.pdf huburi versus switch-uri versus routere.docx
 2. Medii de comunicare prin fire de cupru.pdf 3. Medii de comunicare prin fibra optica.pdf
 Fisa_Tema3.doc MP6_Comunicarea intr-o retea locala (LAN) - partea 2.doc
@@ -150,10 +150,10 @@ MP5_Comunicarea Intr-o Retea Locala (LAN) - Partea 1</description>
     
     <item>
       <title>Conexitate in Grafuri Neorientate</title>
-      <link>https://ncldaniela.github.io/programare/conexitate_grafuri_neorientate/</link>
+      <link>https://danielanicolae.com/programare/conexitate_grafuri_neorientate/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/conexitate_grafuri_neorientate/</guid>
+      <guid>https://danielanicolae.com/programare/conexitate_grafuri_neorientate/</guid>
       <description>Algoritmul Roy-Warshall:Exista drum intre nodul x si nodul y? #include &amp;lt;iostream&amp;gt;#include &amp;lt;conio.h&amp;gt;
 using namespace std;
 int main()
@@ -184,38 +184,38 @@ Conexitate în grafuri neorientate.pptx  CONEXITATE IN GRAFURI NEORIENTATE</desc
     
     <item>
       <title>Curs C</title>
-      <link>https://ncldaniela.github.io/programare/curs_c/</link>
+      <link>https://danielanicolae.com/programare/curs_c/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/curs_c/</guid>
+      <guid>https://danielanicolae.com/programare/curs_c/</guid>
       <description>Curs C++.rar</description>
     </item>
     
     <item>
       <title>Divide et Impera</title>
-      <link>https://ncldaniela.github.io/programare/divide_et_impera/</link>
+      <link>https://danielanicolae.com/programare/divide_et_impera/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/divide_et_impera/</guid>
+      <guid>https://danielanicolae.com/programare/divide_et_impera/</guid>
       <description>Divide et impera se bazează pe principiul descompunerii problemei în două sau mai multe subprobleme (mai ușoare), care se rezolvă, iar soluția pentru problema inițială se obține combinând soluțiile subproblemelor. De multe ori, subproblemele sunt de același tip și pentru fiecare din ele se poate aplica aceeași tactică a descompunerii în (alte) subprobleme, până când (în urma descompunerilor repetate) se ajunge la probleme care admit rezolvare imediată.
 Nu toate problemele pot fi rezolvate prin utilizarea acestei tehnici.</description>
     </item>
     
     <item>
       <title>E-Learning</title>
-      <link>https://ncldaniela.github.io/programare/e-learning/</link>
+      <link>https://danielanicolae.com/programare/e-learning/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/e-learning/</guid>
+      <guid>https://danielanicolae.com/programare/e-learning/</guid>
       <description>Platforma Moodle Manual_profesor_platforma_elearning.pdf</description>
     </item>
     
     <item>
       <title>Evaluare Platforma Wiki</title>
-      <link>https://ncldaniela.github.io/programare/evaluare_platforma_wiki/</link>
+      <link>https://danielanicolae.com/programare/evaluare_platforma_wiki/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/evaluare_platforma_wiki/</guid>
+      <guid>https://danielanicolae.com/programare/evaluare_platforma_wiki/</guid>
       <description>Chestionar pentru evaluare curs de catre elevi
 Denumire platformă:
 Locul instruirii: e-Learning
@@ -231,10 +231,10 @@ A.3Evaluati gradul in care obiectivele referitoare la instruire au fost realizat
     
     <item>
       <title>Evaluare Portofolii</title>
-      <link>https://ncldaniela.github.io/programare/evaluare_portofolii/</link>
+      <link>https://danielanicolae.com/programare/evaluare_portofolii/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/evaluare_portofolii/</guid>
+      <guid>https://danielanicolae.com/programare/evaluare_portofolii/</guid>
       <description>Materiale care va vor ajuta in evaluarea/autoevaluarea propriului demers didactic fi_deobserva_ieechipe.doc
 grila_criterii_prezentare.doc
 Notare_potofoliu.doc
@@ -243,10 +243,10 @@ Autoevaluare_colaborare_echipa.doc</description>
     
     <item>
       <title>Expresii</title>
-      <link>https://ncldaniela.github.io/programare/expresii/</link>
+      <link>https://danielanicolae.com/programare/expresii/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/expresii/</guid>
+      <guid>https://danielanicolae.com/programare/expresii/</guid>
       <description>Aplicaţii EXPRESII
 1. Daca a si b sunt variabile numerice a=3, b=10 sa se evalueze urmatoarele expresii:
 a) 2*a – 3*b
@@ -262,10 +262,10 @@ c) (a / 10 &amp;lt;b) sau (b %10 &amp;lt; a % 10)
     
     <item>
       <title>Fisiere Text</title>
-      <link>https://ncldaniela.github.io/programare/fisiere_text/</link>
+      <link>https://danielanicolae.com/programare/fisiere_text/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/fisiere_text/</guid>
+      <guid>https://danielanicolae.com/programare/fisiere_text/</guid>
       <description>Declararea, închiderea şi deschiderea fişierelor în C++ utilizează anumite clase şi funcţii care sunt declarate în biblioteca fstream.h.
 #include&amp;lt;fstream.h&amp;gt;
 Declararea fişierelor
@@ -281,10 +281,10 @@ Crearea unui fisier cu date ce urmeaza a fi citite prin program</description>
     
     <item>
       <title>Grafuri Neorientate</title>
-      <link>https://ncldaniela.github.io/programare/grafuri_neorientate/</link>
+      <link>https://danielanicolae.com/programare/grafuri_neorientate/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/grafuri_neorientate/</guid>
+      <guid>https://danielanicolae.com/programare/grafuri_neorientate/</guid>
       <description>NOŢIUNI INTRODUCTIVE. DEFINIŢII Grafuri_neorientate.doc METODE DE REPREZENTARE Există mai multe moduri de reprezentare a grafurilor, alegerea făcându-se în funcţie de tipurile de operaţii care urmează să se efectueze:
 1. Matricea de adiacenţă: face o asociere între noduri şi indicii matricei. Este o matrice simentrică faţă de diagonala principală, cu nXn elemente, unde n este numărul de noduri.
 aij= 1, dacă muchia [i,j] există
@@ -293,20 +293,20 @@ aij= 1, dacă muchia [i,j] există
     
     <item>
       <title>Grafuri Orientate</title>
-      <link>https://ncldaniela.github.io/programare/grafuri_orientate/</link>
+      <link>https://danielanicolae.com/programare/grafuri_orientate/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/grafuri_orientate/</guid>
+      <guid>https://danielanicolae.com/programare/grafuri_orientate/</guid>
       <description>NOŢIUNI INTRODUCTIVE. DEFINIŢII Grafuri_orientate.docx
 GRAFURI_ORIENTATE.pdf</description>
     </item>
     
     <item>
       <title>Greedy</title>
-      <link>https://ncldaniela.github.io/programare/greedy/</link>
+      <link>https://danielanicolae.com/programare/greedy/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/greedy/</guid>
+      <guid>https://danielanicolae.com/programare/greedy/</guid>
       <description>Metoda Greedy
 “De alegerea strategiei depinde atât timpul de rezolvare cât și calitatea soluției gasite“
 1. Descrierea metodei Se dă o mulţime A cu n elemente şi se cere să se determine o submulţime a sa(B) care satisface anumite restricţii. Această submulţime se numeşte soluţie posibilă. Se cere să se determine o soluţie posibilă care fie să maximizeze fie să minimizeze o anumită funcţie obiectiv dată. Această soluţie posibilă se numeşte soluţie optimă.</description>
@@ -314,20 +314,20 @@ GRAFURI_ORIENTATE.pdf</description>
     
     <item>
       <title>HTML</title>
-      <link>https://ncldaniela.github.io/programare/html/</link>
+      <link>https://danielanicolae.com/programare/html/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/html/</guid>
+      <guid>https://danielanicolae.com/programare/html/</guid>
       <description>Planificarea site-ului Planificarea site-ului contine urmatoarele etape:
 Stabilirea audienţeiStabilirea scopuluiDefinirea obiectivelorColectarea informaţiilor despre subiectul prezentatStabilirea specificaţiilorStabilirea modului de prezentareStabilirea audienţei Pentru a crea un site de calitate şi o comunicare eficientă a informaţiilor, o etapă deosebit de importantă este definirea audienţei site-ului. Audienţa reprezintă publicul căruia i se adresează site-ul. Stabilirea audienţei site-ului dumneavoastră este esenţială deoarece contribuie la definirea conţinutului paginilor, precum şi a organizării şi aspectului său.</description>
     </item>
     
     <item>
       <title>InfoScience</title>
-      <link>https://ncldaniela.github.io/programare/infoscience/</link>
+      <link>https://danielanicolae.com/programare/infoscience/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/infoscience/</guid>
+      <guid>https://danielanicolae.com/programare/infoscience/</guid>
       <description>structura repetitiva.ppt
 http://infoscience.3x.ro/c++.html
 Algoritmi
@@ -350,29 +350,29 @@ Elemente de baza ale limbajului
     
     <item>
       <title>InfoScience - Algoritmi</title>
-      <link>https://ncldaniela.github.io/programare/infoscience_algoritmi/</link>
+      <link>https://danielanicolae.com/programare/infoscience_algoritmi/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/infoscience_algoritmi/</guid>
+      <guid>https://danielanicolae.com/programare/infoscience_algoritmi/</guid>
       <description>DRUMURI MINIME SI MAXIME IN GRAFURIConsiderăm un graf orientat G=(X,U) cu n noduri, în care fiecărui arc îi este asociat un număr întreg numit cost. Semnificaţia acestui cost poate fi foarte variată, în funcţie de domeniul pe care îl descrie graful. De exemplu, dacă graful reprezintă harta unui oraş în care arcele sunt străzile, iar nodurile sunt intersecţiile dintre stăyi, atunci putem vorbi despre costul deplasării unui automobil între două intersecţii, de-a lungul unei străzi.</description>
     </item>
     
     <item>
       <title>Liste Liniare</title>
-      <link>https://ncldaniela.github.io/programare/liste_liniare/</link>
+      <link>https://danielanicolae.com/programare/liste_liniare/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/liste_liniare/</guid>
+      <guid>https://danielanicolae.com/programare/liste_liniare/</guid>
       <description>Structurile dinamice de date sunt date structurate ale caror componente se aloca in mod dinamic.
 Avantajul alocarii dinamice fata de alocarea acelorasi structuri de date in mod static (in segmentul de date) sau volatil (in segmentul de stiva) sunt: - memorie suplimentara pentru programe - posibilitatea de a utiliza aceasta memorie Alocarea dinamica a componentelor structurii impune un mecanism prin care o noua componenta aparuta este legata in succesiune logica de corpul structurii deja format pana atunci.</description>
     </item>
     
     <item>
       <title>Mate Bacalaureat</title>
-      <link>https://ncldaniela.github.io/programare/mate_bac/</link>
+      <link>https://danielanicolae.com/programare/mate_bac/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/mate_bac/</guid>
+      <guid>https://danielanicolae.com/programare/mate_bac/</guid>
       <description>DomnulTudor - MATE BAC   modul_parte_putere_radical_ecuatii_si_inecuatii_teorie.doc TEORIE MATE LICEU STAN ADRIAN.pdf
 inductieteorie.doc inductieprobleme.doc
 0_progresii_aritmetice_si_geometrice.doc puterisiradicalibun.PDF
@@ -385,10 +385,10 @@ mateinfo.ro/formule-matematica</description>
     
     <item>
       <title>Metode de Sortare</title>
-      <link>https://ncldaniela.github.io/programare/metode_de_sortare/</link>
+      <link>https://danielanicolae.com/programare/metode_de_sortare/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/metode_de_sortare/</guid>
+      <guid>https://danielanicolae.com/programare/metode_de_sortare/</guid>
       <description>METODE SI TEHNICI DE SORTARE A UNUI VECTOR
 (SORTARE IN ORDINE CRESCATOARE)
 
@@ -397,10 +397,10 @@ mateinfo.ro/formule-matematica</description>
     
     <item>
       <title>Metode si Tehnici Clasice de Programare</title>
-      <link>https://ncldaniela.github.io/programare/metode_tehnici_clasice_programare/</link>
+      <link>https://danielanicolae.com/programare/metode_tehnici_clasice_programare/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/metode_tehnici_clasice_programare/</guid>
+      <guid>https://danielanicolae.com/programare/metode_tehnici_clasice_programare/</guid>
       <description>POSTLICEALA ANUL I Calificarea: ANALIST PROGRAMATOR MODULUL VIII-Metode şi tehnici clasice de programare METODE ŞI TEHNICI CLASICE DE PROGRAMARE_I.doc
 METODE ŞI TEHNICI CLASICE DE PROGRAMARE_II.doc
 Alte materiale de invatare avizate, elaborate prin proiectul “ Învățământul profesional și tehnic în domeniul TIC”POSDRU/1/1.1/S/4/994 găsiți la adresa http://cndiptfsetic.tvet.ro</description>
@@ -408,10 +408,10 @@ Alte materiale de invatare avizate, elaborate prin proiectul “ Învățământ
     
     <item>
       <title>Oracle</title>
-      <link>https://ncldaniela.github.io/programare/oracle/</link>
+      <link>https://danielanicolae.com/programare/oracle/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/oracle/</guid>
+      <guid>https://danielanicolae.com/programare/oracle/</guid>
       <description>Comanda UPDATE Comanda UPDATEeste folosită pentru a modifica valorile datelor existente în tabele. 
 Sintaxa uzuală a comenzii UPDATE prezintă următoarele variante:
 1)
@@ -430,10 +430,10 @@ Clauza FROM este o extensie specifica SQL Server, inexistenta în standardul SQL
     
     <item>
       <title>Parcurgerea Grafurilor</title>
-      <link>https://ncldaniela.github.io/programare/parcurgerea_grafurilor/</link>
+      <link>https://danielanicolae.com/programare/parcurgerea_grafurilor/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/parcurgerea_grafurilor/</guid>
+      <guid>https://danielanicolae.com/programare/parcurgerea_grafurilor/</guid>
       <description>PARCURGEREA GRAFURILOR NEORIENTATE Definiţie Prin parcurgerea (traversarea) grafului se înţelege examinarea în mod sistematic a nodurilor sale, astfel încât fiecare nod să fie atins o singură dată. Procedeul se mai numeşte vizitare.
 Obs.Graful este o structură neliniară de organizare a datelor, rolul traversării este tocmai acela de a determina o “liniarizare” a nodurilor în vederea trecerii de la unul la altul.
 parcurgerea în lăţime:se parcurge mai întâi nodul iniţial, apoi vecinii acestuia, apoi vecinii nevizitaţi ai acestuia, s.</description>
@@ -441,19 +441,19 @@ parcurgerea în lăţime:se parcurge mai întâi nodul iniţial, apoi vecinii ac
     
     <item>
       <title>Pointeri si Referinte</title>
-      <link>https://ncldaniela.github.io/programare/pointeri_referinte/</link>
+      <link>https://danielanicolae.com/programare/pointeri_referinte/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/pointeri_referinte/</guid>
+      <guid>https://danielanicolae.com/programare/pointeri_referinte/</guid>
       <description>Referinte si Pointeri.pdf</description>
     </item>
     
     <item>
       <title>Programare FoxPRO</title>
-      <link>https://ncldaniela.github.io/programare/programare_foxpro/</link>
+      <link>https://danielanicolae.com/programare/programare_foxpro/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/programare_foxpro/</guid>
+      <guid>https://danielanicolae.com/programare/programare_foxpro/</guid>
       <description>Mecanismele programarii în Visual FoxPro
 Programarea în Visual FoxPro implica scrierea unor secvente de cod: instructiuni sub forma de comenzi, functii sau operatii pe care Visual FoxPro le poate interpreta. Acestea pot fi introduse în:
 - fisiere de programe;
@@ -463,19 +463,19 @@ Programarea în Visual FoxPro implica scrierea unor secvente de cod: instructiun
     
     <item>
       <title>Programare Orientata pe Obiecte</title>
-      <link>https://ncldaniela.github.io/programare/programare_orientata_pe_obiecte/</link>
+      <link>https://danielanicolae.com/programare/programare_orientata_pe_obiecte/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/programare_orientata_pe_obiecte/</guid>
+      <guid>https://danielanicolae.com/programare/programare_orientata_pe_obiecte/</guid>
       <description>Aplicații practice de laborator POO.pdf Curs programare orientată pe obiecte curs poo</description>
     </item>
     
     <item>
       <title>Programarea Dinamica</title>
-      <link>https://ncldaniela.github.io/programare/programare_dinamica/</link>
+      <link>https://danielanicolae.com/programare/programare_dinamica/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/programare_dinamica/</guid>
+      <guid>https://danielanicolae.com/programare/programare_dinamica/</guid>
       <description>Programare Dinamica
 Programare dinamica presupune rezolvarea unei probleme prin descompunerea ei in subprobleme si rezolvarea acestora. Spre deosebire de divide-et-impera, subproblemele nu sunt disjuncte, ci se suprapun.
 Pentru a evita recalcularea portiunilor care se suprapun, rezolvarea se face pornind de la cele mai mici subprobleme si folosindu-ne de rezultatul acestora calculam subproblema imediat mai mare. Cele mai mici subprobleme sunt numite subprobleme unitare. Acestea pot fi rezolvate intr-o complexitate constanta, ex: cea mai mare subsecventa dintr-o multime de un singur element.</description>
@@ -483,10 +483,10 @@ Pentru a evita recalcularea portiunilor care se suprapun, rezolvarea se face por
     
     <item>
       <title>Recursivitate</title>
-      <link>https://ncldaniela.github.io/programare/recursivitate/</link>
+      <link>https://danielanicolae.com/programare/recursivitate/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/recursivitate/</guid>
+      <guid>https://danielanicolae.com/programare/recursivitate/</guid>
       <description>Recursivitatea este un mecanism general de elaborare a algoritmilor. O functie se numeste recursiva daca ea se autoapeleaza, fie direct (in definitia ei, se face apel la ea insasi), fie indirect (functia X apeleaza functia Y, care apeleaza functia X).
 Recursivitatea a aparut din necesitati practice date de transcrierea directa a formulelor matematice recursive. Apoi, acest mecanism a fost extins, fiind utilizat in elaborarea multor algoritmi.
 Pornim de la un exemplu : Sa se calculeze n !</description>
@@ -494,30 +494,30 @@ Pornim de la un exemplu : Sa se calculeze n !</description>
     
     <item>
       <title>Roy Warshall, Kruskal, Dijkstra etc.</title>
-      <link>https://ncldaniela.github.io/programare/roy_warshall_kruskal_dijkstra/</link>
+      <link>https://danielanicolae.com/programare/roy_warshall_kruskal_dijkstra/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/roy_warshall_kruskal_dijkstra/</guid>
+      <guid>https://danielanicolae.com/programare/roy_warshall_kruskal_dijkstra/</guid>
       <description>Curs-Algoritmica-Grafurilor.pdf
 DIJKSTRA DIJKSTRA.docx</description>
     </item>
     
     <item>
       <title>SQL</title>
-      <link>https://ncldaniela.github.io/programare/sql/</link>
+      <link>https://danielanicolae.com/programare/sql/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/sql/</guid>
+      <guid>https://danielanicolae.com/programare/sql/</guid>
       <description>Curs Bd.pdf APLICATII TEST 1.docx MEMENTO Limbajul SQL.pdf
 TEST 2.docx teste grila sql.pdf</description>
     </item>
     
     <item>
       <title>Siruri de Caractere</title>
-      <link>https://ncldaniela.github.io/programare/siruri_de_caractere/</link>
+      <link>https://danielanicolae.com/programare/siruri_de_caractere/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/siruri_de_caractere/</guid>
+      <guid>https://danielanicolae.com/programare/siruri_de_caractere/</guid>
       <description>Notiuni teoretice SIRURI DE CARACTERE.doc
 TESTE GRILA TESTE GRILA.docx
 PROBLEME PROPUSE http://info.mcip.ro/?cap=Siruri%20de%20caractere
@@ -543,10 +543,10 @@ cout&amp;lt;&amp;lt;&amp;quot;sirul fara vocale=&amp;quot;&amp;lt;&amp;lt;s;
     
     <item>
       <title>Space.Menu</title>
-      <link>https://ncldaniela.github.io/programare/space.menu/</link>
+      <link>https://danielanicolae.com/programare/space.menu/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/space.menu/</guid>
+      <guid>https://danielanicolae.com/programare/space.menu/</guid>
       <description>ORA DE DIRIGENTIE
 EVALUARE PLATFORMA
 EVALUARE PORTOFOLII
@@ -582,10 +582,10 @@ ARBORI DE CAUTARE, ARBORI B, COMPLEXE&amp;hellip;</description>
     
     <item>
       <title>Structuri</title>
-      <link>https://ncldaniela.github.io/programare/structuri/</link>
+      <link>https://danielanicolae.com/programare/structuri/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/structuri/</guid>
+      <guid>https://danielanicolae.com/programare/structuri/</guid>
       <description>STRUCTURA LINIARĂ1. a si b retin valorile pentru doua numere intregi citite de la tastatura. Sa se interschimbe valorile celor doua numere.
 2. Cunoscand cele 4 note obtinute de un elev la informatica pe parcursul unui semestru si nota de la teza scrieti un algoritm care sa afiseze media lui.
 3. Fie un numar format din trei cifre. Sa se afiseze cifrele sale incepand cu cifra unitatilor.
@@ -594,10 +594,10 @@ ARBORI DE CAUTARE, ARBORI B, COMPLEXE&amp;hellip;</description>
     
     <item>
       <title>Subiecte Atestat</title>
-      <link>https://ncldaniela.github.io/programare/subiecte_atestat/</link>
+      <link>https://danielanicolae.com/programare/subiecte_atestat/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/subiecte_atestat/</guid>
+      <guid>https://danielanicolae.com/programare/subiecte_atestat/</guid>
       <description>SUBIECTE_ATESTAT_INFORMATICA_2016 (1).pdf
 http://www.itlearning.ro/tutorials/tutorial
 http://www.officespecialist.ro/
@@ -613,20 +613,20 @@ access
     
     <item>
       <title>Subprograme</title>
-      <link>https://ncldaniela.github.io/programare/subprograme/</link>
+      <link>https://danielanicolae.com/programare/subprograme/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/subprograme/</guid>
+      <guid>https://danielanicolae.com/programare/subprograme/</guid>
       <description>PREZENTARE TEORETICA
 1. Introducere Subprogramele sunt părţi ale unui program, identificabile prin nume, care se pot activa la cerere prin intermediul acestor nume.Prezenţa subprogramelor implică funcţionarea în strânsă legătură a două noţiuni: definiţia unui subprogram şi apelul unui subprogram.Definiţia unui subprogram reprezintă de fapt descrierea unui proces de calcul cu ajutorul variabilelor virtuale (parametri formali) iar apelul unui subprogram nu este altceva decât execuţia procesului de calcul pentru cazuri concrete (cu ajutorul parametrilor reali, (efectivi, actuali) ).</description>
     </item>
     
     <item>
       <title>Tablouri</title>
-      <link>https://ncldaniela.github.io/programare/tablouri/</link>
+      <link>https://danielanicolae.com/programare/tablouri/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/tablouri/</guid>
+      <guid>https://danielanicolae.com/programare/tablouri/</guid>
       <description>Tablouri c
 
 Operatii cu vectori: Sume produse, numarariMinime si maximeCautariInserariStergeriPermutari circulareFormari de vectori noiOrdonareInterclasareprobleme rezolvate cu vectori.docx
@@ -636,10 +636,10 @@ http://info.mcip.ro/?cap=TablourI</description>
     
     <item>
       <title>Tehnologia Informatiei si a Comunicatiilor</title>
-      <link>https://ncldaniela.github.io/programare/tic/</link>
+      <link>https://danielanicolae.com/programare/tic/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/tic/</guid>
+      <guid>https://danielanicolae.com/programare/tic/</guid>
       <description>DomnulTudor - Tehnologia informatiei si a comunicatiilor    Arhitectura unui sistem de calcul 1arhitectura_sc.pptx Arhitectura unui sistem de calcul 2 prezentareacalculatorului.ppt Sistemul de operare Windows.Operatii cu fisiere5ISTEMUL-DE-OPERARE-WINDOWS.doc FISE DE LUCRU ARHITECTURA SC_SISTEME DE OPERARE ARHITECTURA_SO.rar Internet INTERNET.doc  WORD  EXCEL  POWERPOINT    fisa_de_lucru_tabele2.doc
  test2excel.docx
  5_aplicatii.doc
@@ -653,10 +653,10 @@ http://info.mcip.ro/?cap=TablourI</description>
     
     <item>
       <title>Tipul Struct</title>
-      <link>https://ncldaniela.github.io/programare/tipul_struct/</link>
+      <link>https://danielanicolae.com/programare/tipul_struct/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/tipul_struct/</guid>
+      <guid>https://danielanicolae.com/programare/tipul_struct/</guid>
       <description>O structura este o colectie de valori eterogene, stocate intr-o zona compacta de memorie.
 Componentele unei structuri, denumite campuri, sunt identificate prin nume simbolice, denumite selectori.
 Campurile unei structuri pot fi de orice tip, simplu sau derivat, dar nu void sau functie.
@@ -672,10 +672,10 @@ nume_structura saulista_declaratori pot lipsi, dar nu simultan.</description>
     
     <item>
       <title>Tipuri de Date in FoxPRO</title>
-      <link>https://ncldaniela.github.io/programare/tipuri_de_date_foxpro/</link>
+      <link>https://danielanicolae.com/programare/tipuri_de_date_foxpro/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://ncldaniela.github.io/programare/tipuri_de_date_foxpro/</guid>
+      <guid>https://danielanicolae.com/programare/tipuri_de_date_foxpro/</guid>
       <description>Tipuri de date şi funcţii standardîn FoxPro
 Datele cu care lucrează FoxPro sunt de tip numeric, caracter, data calendaristică, logic. Asupra acestor tipuri de date s-au definit operaţii specifice şi au fost realizate funcţii standard dintre care cele mai des folosite vor fi explicate în continuare.
 Funcţii uzuale asupra tuturor tipurilor de date:

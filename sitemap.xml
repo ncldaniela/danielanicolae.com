@@ -3,217 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://danielanicolae.com/algoritmi/</loc>
-    <lastmod>2018-08-20T03:14:29+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/structuri_de_date/</loc>
-    <lastmod>2018-08-20T03:14:29+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/baze_de_date/</loc>
-    <lastmod>2018-08-20T03:14:29+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/diverse/</loc>
-    <lastmod>2018-08-20T02:34:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/diverse/ora_de_dirigentie/</loc>
-    <lastmod>2018-08-20T05:35:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/baze_de_date/access/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://danielanicolae.com/algoritmi/algoritmi/</loc>
     <lastmod>2018-08-20T03:16:20+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://danielanicolae.com/algoritmi/aplicatii_complexe/</loc>
+    <loc>https://danielanicolae.com/diverse/c_builder/</loc>
     <lastmod>2018-08-20T03:16:20+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://danielanicolae.com/structuri_de_date/arbori/</loc>
+    <loc>https://danielanicolae.com/grafuri/grafuri_neorientate/</loc>
     <lastmod>2018-08-20T03:16:20+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://danielanicolae.com/structuri_de_date/arbori_de_cautare/</loc>
+    <loc>https://danielanicolae.com/tehnici_de_programare/recursivitate/</loc>
     <lastmod>2018-08-20T03:16:20+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://danielanicolae.com/algoritmi/backtracking/</loc>
+    <loc>https://danielanicolae.com/structuri_de_date/tablouri/</loc>
     <lastmod>2018-08-20T03:16:20+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://danielanicolae.com/baze_de_date/baze_de_date/</loc>
+    <loc>https://danielanicolae.com/algoritmi/</loc>
+    <lastmod>2018-08-20T03:14:29+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/tehnici_de_programare/backtracking/</loc>
     <lastmod>2018-08-20T03:16:20+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://danielanicolae.com/algoritmi/c_builder/</loc>
+    <loc>https://danielanicolae.com/grafuri/conexitate_grafuri_neorientate/</loc>
     <lastmod>2018-08-20T03:16:20+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://danielanicolae.com/diverse/compilatoare_mingw/</loc>
+    <loc>https://danielanicolae.com/diverse/curs_c/</loc>
     <lastmod>2018-08-20T03:16:20+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://danielanicolae.com/diverse/foxpro/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/diverse/comunicarea_re%C5%A3ea_locala/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/algoritmi/conexitate_grafuri_neorientate/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/algoritmi/curs_c/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/algoritmi/divide_et_impera/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/diverse/e-learning/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/diverse/evaluare_portofolii/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/algoritmi/expresii/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/algoritmi/fisiere_text/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/structuri_de_date/grafuri_neorientate/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/structuri_de_date/grafuri_orientate/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/algoritmi/greedy/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/diverse/html/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/algoritmi/infoscience/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/algoritmi/infoscience_algoritmi/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/algoritmi/liste_liniare/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/diverse/mate_bac/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/algoritmi/metode_de_sortare/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/algoritmi/metode_tehnici_clasice_programare/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/baze_de_date/oracle/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/algoritmi/parcurgerea_grafurilor/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/algoritmi/pointeri_referinte/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/diverse/programare_foxpro/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/algoritmi/programare_orientata_pe_obiecte/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/algoritmi/programare_dinamica/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/algoritmi/recursivitate/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/algoritmi/roy_warshall_kruskal_dijkstra/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/baze_de_date/sql/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielanicolae.com/algoritmi/siruri_de_caractere/</loc>
+    <loc>https://danielanicolae.com/structuri_de_date/fisiere_text/</loc>
     <lastmod>2018-08-20T03:16:20+03:00</lastmod>
   </url>
   
@@ -223,7 +58,117 @@
   </url>
   
   <url>
-    <loc>https://danielanicolae.com/diverse/subiecte_atestat/</loc>
+    <loc>https://danielanicolae.com/structuri_de_date/</loc>
+    <lastmod>2018-08-20T03:14:29+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/tehnici_de_programare/divide_et_impera/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/algoritmi/expresii/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/grafuri/grafuri_orientate/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/diverse/programare_orientata_pe_obiecte/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/structuri_de_date/siruri_de_caractere/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/tehnici_de_programare/</loc>
+    <lastmod>2018-08-20T03:14:29+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/algoritmi/aplicatii_complexe/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/diverse/compilatoare_mingw/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/tehnici_de_programare/greedy/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/grafuri/parcurgerea_grafurilor/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/structuri_de_date/tipul_struct/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/grafuri/</loc>
+    <lastmod>2018-08-20T03:14:29+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/diverse/comunicarea_re%C5%A3ea_locala/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/grafuri/drumuri_minime_maxime_grafuri/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/algoritmi/infoscience/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/structuri_de_date/liste_liniare/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/tehnici_de_programare/metode_de_sortare/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/diverse/</loc>
+    <lastmod>2018-08-20T02:34:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/diverse/e-learning/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/structuri_de_date/pointeri_referinte/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/tehnici_de_programare/programare_dinamica/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/grafuri/roy_warshall_kruskal_dijkstra/</loc>
     <lastmod>2018-08-20T03:16:20+03:00</lastmod>
   </url>
   
@@ -233,7 +178,52 @@
   </url>
   
   <url>
-    <loc>https://danielanicolae.com/algoritmi/tablouri/</loc>
+    <loc>https://danielanicolae.com/grafuri/arbori/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/diverse/evaluare_portofolii/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/tehnici_de_programare/metode_tehnici_clasice_programare/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/grafuri/arbori_de_cautare/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/diverse/foxpro/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/diverse/html/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/diverse/mate_bac/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/diverse/ora_de_dirigentie/</loc>
+    <lastmod>2018-08-20T05:35:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/diverse/programare_foxpro/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/diverse/subiecte_atestat/</loc>
     <lastmod>2018-08-20T03:16:20+03:00</lastmod>
   </url>
   
@@ -243,18 +233,33 @@
   </url>
   
   <url>
-    <loc>https://danielanicolae.com/algoritmi/tipul_struct/</loc>
-    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://danielanicolae.com/diverse/tipuri_de_date_foxpro/</loc>
     <lastmod>2018-08-20T03:16:20+03:00</lastmod>
   </url>
   
   <url>
+    <loc>https://danielanicolae.com/diverse/baze_de_date/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/diverse/sql/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/diverse/oracle/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielanicolae.com/diverse/access/</loc>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://danielanicolae.com/</loc>
-    <lastmod>2018-08-20T05:35:20+03:00</lastmod>
+    <lastmod>2018-08-20T03:16:20+03:00</lastmod>
   </url>
   
   <url>

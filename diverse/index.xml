@@ -12,15 +12,30 @@
     
     
     <item>
-      <title>Ora de Dirigentie</title>
-      <link>https://danielanicolae.com/diverse/ora_de_dirigentie/</link>
-      <pubDate>Mon, 20 Aug 2018 05:35:20 +0300</pubDate>
+      <title>C Builder</title>
+      <link>https://danielanicolae.com/diverse/c_builder/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://danielanicolae.com/diverse/ora_de_dirigentie/</guid>
-      <description>ORA DE DIRIGENTIE ON LINE:
-http://localhost/Login2.aspx?loginRedirect=/default.aspx http://ler.is.edu.ro/~oradedirigentie/siveco/index.php Informatii, exemple.. privind completarea unui CV http://www.europass-ro.ro
-Ghid de prezentare la un interviu descarcat de aici http://www.europass-ro.ro/index.php?page=materiale
-pregatire_interviu.ppt</description>
+      <guid>https://danielanicolae.com/diverse/c_builder/</guid>
+      <description>C++Builder</description>
+    </item>
+    
+    <item>
+      <title>Curs C</title>
+      <link>https://danielanicolae.com/diverse/curs_c/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/diverse/curs_c/</guid>
+      <description>Curs C++.rar</description>
+    </item>
+    
+    <item>
+      <title>Programare Orientata pe Obiecte</title>
+      <link>https://danielanicolae.com/diverse/programare_orientata_pe_obiecte/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/diverse/programare_orientata_pe_obiecte/</guid>
+      <description>Aplicații practice de laborator POO.pdf Curs programare orientată pe obiecte curs poo</description>
     </item>
     
     <item>
@@ -34,27 +49,6 @@ http://infoarena.ro/schimbare-borland/pachet
 alegeti :
 Pachet cu compilatorul MinGW 4.4, GDB 7.1 si Code::Blocks
 http://www.cprogramming.com/code_blocks/</description>
-    </item>
-    
-    <item>
-      <title>Compilatoare MinGW</title>
-      <link>https://danielanicolae.com/diverse/foxpro/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/diverse/foxpro/</guid>
-      <description>DomnulTudor - FOXPRO    Baze de Date in Visual Foxpro.pdf SGBD.pdf Visual-Foxpro-Decriptat.pdf  FOXPRO_SUPORT_DE_CURS.pdfVisual_Fox_Pro1.doc
-Comenzi_Fox_Pro.docVisual_FoxPro2.doc  PROGRAMARE STRUCTURATA-INSTRUCTIUNI.docx SUBPROGRAME.docx TESTE TEST.pdf
-TEST1.doc
-TEST2.doc
-TEST3.doc
-TEST4.doc
-TEST5.doc
-TEST6.doc
-FISE DE LUCRU aplicatii foxpro.doc
-FISA DE LUCRU1.pdf
-FISE DE LUCRU 3.pdf
-FISE DE LUCRU 2.pdf
-FISE DE LUCRU.pdfAPLICATII CU SUBPROGRAME.docx</description>
     </item>
     
     <item>
@@ -94,6 +88,27 @@ Autoevaluare_colaborare_echipa.doc</description>
     </item>
     
     <item>
+      <title>Compilatoare MinGW</title>
+      <link>https://danielanicolae.com/diverse/foxpro/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/diverse/foxpro/</guid>
+      <description>DomnulTudor - FOXPRO    Baze de Date in Visual Foxpro.pdf SGBD.pdf Visual-Foxpro-Decriptat.pdf  FOXPRO_SUPORT_DE_CURS.pdfVisual_Fox_Pro1.doc
+Comenzi_Fox_Pro.docVisual_FoxPro2.doc  PROGRAMARE STRUCTURATA-INSTRUCTIUNI.docx SUBPROGRAME.docx TESTE TEST.pdf
+TEST1.doc
+TEST2.doc
+TEST3.doc
+TEST4.doc
+TEST5.doc
+TEST6.doc
+FISE DE LUCRU aplicatii foxpro.doc
+FISA DE LUCRU1.pdf
+FISE DE LUCRU 3.pdf
+FISE DE LUCRU 2.pdf
+FISE DE LUCRU.pdfAPLICATII CU SUBPROGRAME.docx</description>
+    </item>
+    
+    <item>
       <title>HTML</title>
       <link>https://danielanicolae.com/diverse/html/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
@@ -117,6 +132,18 @@ Site-uri utile math-pdr.com
 matematica.noads.biz
 matepe.net
 mateinfo.ro/formule-matematica</description>
+    </item>
+    
+    <item>
+      <title>Ora de Dirigentie</title>
+      <link>https://danielanicolae.com/diverse/ora_de_dirigentie/</link>
+      <pubDate>Mon, 20 Aug 2018 05:35:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/diverse/ora_de_dirigentie/</guid>
+      <description>ORA DE DIRIGENTIE ON LINE:
+http://localhost/Login2.aspx?loginRedirect=/default.aspx http://ler.is.edu.ro/~oradedirigentie/siveco/index.php Informatii, exemple.. privind completarea unui CV http://www.europass-ro.ro
+Ghid de prezentare la un interviu descarcat de aici http://www.europass-ro.ro/index.php?page=materiale
+pregatire_interviu.ppt</description>
     </item>
     
     <item>
@@ -177,9 +204,62 @@ access
       <description>Tipuri de date şi funcţii standardîn FoxPro
 Datele cu care lucrează FoxPro sunt de tip numeric, caracter, data calendaristică, logic. Asupra acestor tipuri de date s-au definit operaţii specifice şi au fost realizate funcţii standard dintre care cele mai des folosite vor fi explicate în continuare.
 Funcţii uzuale asupra tuturor tipurilor de date:
- MAX (&amp;lt;e1&amp;gt;,&amp;lt;e2&amp;gt;)
- calculează maximul dintre două valori &amp;lt;e1&amp;gt; şi &amp;lt;e2&amp;gt;
-   MIN (&amp;lt;e1&amp;gt;,&amp;lt;e2&amp;gt;)</description>
+ MAX (,)
+ calculează maximul dintre două valori  şi 
+   MIN (,)</description>
+    </item>
+    
+    <item>
+      <title>Baze de Date</title>
+      <link>https://danielanicolae.com/diverse/baze_de_date/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/diverse/baze_de_date/</guid>
+      <description>Proiectarea bazelor de date from aaa zAZ</description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://danielanicolae.com/diverse/sql/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/diverse/sql/</guid>
+      <description>Curs Bd.pdf APLICATII TEST 1.docx MEMENTO Limbajul SQL.pdf
+TEST 2.docx teste grila sql.pdf</description>
+    </item>
+    
+    <item>
+      <title>Oracle</title>
+      <link>https://danielanicolae.com/diverse/oracle/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/diverse/oracle/</guid>
+      <description>Comanda UPDATE Comanda UPDATEeste folosită pentru a modifica valorile datelor existente în tabele. 
+Sintaxa uzuală a comenzii UPDATE prezintă următoarele variante:
+1)
+UPDATE tabel 
+SET coloana1 = expresie1,
+coloana2 = expresie2, &amp;hellip;
+[WHERE condiţie];
+2)
+UPDATE tabel 
+SET coloana1 = expresie1,
+coloana2 = expresie2, &amp;hellip;
+FROM tabele_cuplate
+[WHERE condiţie];
+Clauza FROM este o extensie specifica SQL Server, inexistenta în standardul SQL92 . Prin această extensie se poate specifica o cuplare de mai multe tabele care se poate folosi în locul unei fraze Select imbricată în clauza WHERE.</description>
+    </item>
+    
+    <item>
+      <title>Access</title>
+      <link>https://danielanicolae.com/diverse/access/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/diverse/access/</guid>
+      <description>Microsoft Access 2007.ppt
+Interogări (Query) Interogările reprezintă modalităţi de selecţie şi afişare a informaţie din unul sau mai multe surse (tabele sau alte interogări), formulate cu ajutorul unor condiţii logice. 
+Tipuri de interogări În funcţie de modul de definire şi rezultatele acţiunii, interogarile pot fi clasificate astfel:
+interogări simple sau de selecţie (folosind condiţii logice);interogări pentru actualizare - delete query, update query şi append query;interogări încrucişate sau bidimensionale.</description>
     </item>
     
   </channel>

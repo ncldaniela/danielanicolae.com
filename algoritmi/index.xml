@@ -24,62 +24,15 @@ Un algoritm reprezinta o metoda de rezolvare a problemelor de un anumit tip.A re
     </item>
     
     <item>
-      <title>Aplicatii Complexe</title>
-      <link>https://danielanicolae.com/algoritmi/aplicatii_complexe/</link>
+      <title>Structuri</title>
+      <link>https://danielanicolae.com/algoritmi/structuri/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://danielanicolae.com/algoritmi/aplicatii_complexe/</guid>
-      <description>APLICATII COMPLEXE
-1.Scrieti un program C/C++ care citeste de la tastatura doua siruri de caractere formate din litere mici. Sa se creeze fisierul BAC.TXT in care sa scrie unul din cele doua siruri care se dovedeste a fi o subsecventa a celuilalt sir. Daca cele doua siruri nu au aceasta proprietate atunci in fisierul BAC.TXT se va scrie textul “FARA SOLUTIE”.
-Exemplu:
-Se citesc sirurile: Se afiseaza in BAC.</description>
-    </item>
-    
-    <item>
-      <title>Backtracking</title>
-      <link>https://danielanicolae.com/algoritmi/backtracking/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/algoritmi/backtracking/</guid>
-      <description>Metoda backtracking se aplica problemelor in care solutia se poate prezenta sub forma unui vector x={x1,x2,…,xn} unde x1 apartine unei multimi S1, x2 apartine multimii S2 s.a.m.d.Si i=1…n sunt multimi finite. Cerinta problemei este, de obicei, gasirea tuturor solutiilor posibile sau gasirea numarului de solutii care satisfac anumite conditii specifice problemei. De multe ori metoda se foloseste si pentru gasirea unei singure solutii (dupa gasirea acesteia se intrerupe executia programului), a unei solutii maxime/minime insa, pentru astfel de cazuri recomandam gasirea unei alte solutii de rezolvare datorita faptului ca metoda Backtracking consuma resurse mari de memorie si timp.</description>
-    </item>
-    
-    <item>
-      <title>C Builder</title>
-      <link>https://danielanicolae.com/algoritmi/c_builder/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/algoritmi/c_builder/</guid>
-      <description>C++Builder</description>
-    </item>
-    
-    <item>
-      <title>Conexitate in Grafuri Neorientate</title>
-      <link>https://danielanicolae.com/algoritmi/conexitate_grafuri_neorientate/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/algoritmi/conexitate_grafuri_neorientate/</guid>
-      <description>Algoritmul Roy-Warshall: Exista drum intre nodul x si nodul y?
-#include &amp;lt;iostream&amp;gt; #include &amp;lt;conio.h&amp;gt; using namespace std; int main() { int n,i,a[100][100],j,k,x,y; cout&amp;lt;&amp;lt;&amp;quot;n=&amp;quot;;cin&amp;gt;&amp;gt;n; for(i=1;i&amp;lt;=n;i++) for(j=1;j&amp;lt;=n;j++) {cout&amp;lt;&amp;lt;&amp;quot;a[&amp;quot;&amp;lt;&amp;lt;i&amp;lt;&amp;lt;&amp;quot;][&amp;quot;&amp;lt;&amp;lt;j&amp;lt;&amp;lt;&amp;quot;]=&amp;quot;; cin&amp;gt;&amp;gt;a[i][j]; } for(k=1;k&amp;lt;=n;k++) for(i=1;i&amp;lt;=n;i++) for(j=1;j&amp;lt;=n;j++) if(a[i][j]==0 &amp;amp;&amp;amp; i!=k &amp;amp;&amp;amp; j!=k) a[i][j]=a[i][k]*a[k][j]; cout&amp;lt;&amp;lt;&amp;quot;Nodul initial:&amp;quot;;cin&amp;gt;&amp;gt;x; cout&amp;lt;&amp;lt;&amp;quot;Nodul final:&amp;quot;;cin&amp;gt;&amp;gt;y; if(a[x][y]==1) cout&amp;lt;&amp;lt;&amp;quot;Exista drum intre nodul &amp;quot;&amp;lt;&amp;lt;x&amp;lt;&amp;lt;&amp;quot; si nodul &amp;quot;&amp;lt;&amp;lt;y&amp;lt;&amp;lt;&amp;quot;.&amp;quot;; else cout&amp;lt;&amp;lt;&amp;quot;NU exista drum intre nodul &amp;quot;&amp;lt;&amp;lt;x&amp;lt;&amp;lt;&amp;quot; si nodul &amp;quot;&amp;lt;&amp;lt;y&amp;lt;&amp;lt;&amp;quot;.&amp;quot;; getch(); return 0; }  Conexitate în grafuri neorientate.</description>
-    </item>
-    
-    <item>
-      <title>Curs C</title>
-      <link>https://danielanicolae.com/algoritmi/curs_c/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/algoritmi/curs_c/</guid>
-      <description>Curs C++.rar</description>
-    </item>
-    
-    <item>
-      <title>Divide et Impera</title>
-      <link>https://danielanicolae.com/algoritmi/divide_et_impera/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/algoritmi/divide_et_impera/</guid>
-      <description>Divide et impera se bazează pe principiul descompunerii problemei în două sau mai multe subprobleme (mai ușoare), care se rezolvă, iar soluția pentru problema inițială se obține combinând soluțiile subproblemelor. De multe ori, subproblemele sunt de același tip și pentru fiecare din ele se poate aplica aceeași tactică a descompunerii în (alte) subprobleme, până când (în urma descompunerilor repetate) se ajunge la probleme care admit rezolvare imediată.
-Nu toate problemele pot fi rezolvate prin utilizarea acestei tehnici.</description>
+      <guid>https://danielanicolae.com/algoritmi/structuri/</guid>
+      <description>STRUCTURA LINIARĂ1. a si b retin valorile pentru doua numere intregi citite de la tastatura. Sa se interschimbe valorile celor doua numere.
+2. Cunoscand cele 4 note obtinute de un elev la informatica pe parcursul unui semestru si nota de la teza scrieti un algoritm care sa afiseze media lui.
+3. Fie un numar format din trei cifre. Sa se afiseze cifrele sale incepand cu cifra unitatilor.
+4. Se citeste un numar natural format din 4 cifre.</description>
     </item>
     
     <item>
@@ -92,43 +45,23 @@ Nu toate problemele pot fi rezolvate prin utilizarea acestei tehnici.</descripti
 1. Daca a si b sunt variabile numerice a=3, b=10 sa se evalueze urmatoarele expresii:
 a) 2*a – 3*b
 b) sqr(2)+sqr(a+b)
-c) (sqr(a)&amp;lt;b) si (sqr(b)&amp;lt;=100)
-d) (a % 2==0) sau (b % 2==0)
+c) (sqr(a)d) (a % 2==0) sau (b % 2==0)
 2. Daca a=1831 si b=291 sunt doua variabile numerice, evaluati urmatoarele expresii:
 a) (a-b)*a% 10
 b) (sqr(b))% 10
-c) (a / 10 &amp;lt;b) sau (b %10 &amp;lt; a % 10)
-3. Pentru doua numere reale a si b scrieti o expresie care calculeaza suma dintre media aritmetica si media geometrica a celor doua numere</description>
+c) (a / 10 3. Pentru doua numere reale a si b scrieti o expresie care calculeaza suma dintre media aritmetica si media geometrica a celor doua numere</description>
     </item>
     
     <item>
-      <title>Fisiere Text</title>
-      <link>https://danielanicolae.com/algoritmi/fisiere_text/</link>
+      <title>Aplicatii Complexe</title>
+      <link>https://danielanicolae.com/algoritmi/aplicatii_complexe/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://danielanicolae.com/algoritmi/fisiere_text/</guid>
-      <description>Declararea, închiderea şi deschiderea fişierelor în C++ utilizează anumite clase şi funcţii care sunt declarate în biblioteca fstream.h.
-#include&amp;lt;fstream.h&amp;gt;
-Declararea fişierelor
-Pentru a putea citi/scrie informaţii dintr-un/într-un fişier, acesta se asociază unui stream (flux) de intrare/ieşire.
-ifstream nume_fişier_logic (nume_fişier);deschiderea unui fisier pentr a citi date
-ofstream nume_fişier_logic (nume_fişier);
-deschiderea unui fisier pentru a scrie date
+      <guid>https://danielanicolae.com/algoritmi/aplicatii_complexe/</guid>
+      <description>APLICATII COMPLEXE
+1.Scrieti un program C/C++ care citeste de la tastatura doua siruri de caractere formate din litere mici. Sa se creeze fisierul BAC.TXT in care sa scrie unul din cele doua siruri care se dovedeste a fi o subsecventa a celuilalt sir. Daca cele doua siruri nu au aceasta proprietate atunci in fisierul BAC.TXT se va scrie textul “FARA SOLUTIE”.
 Exemplu:
-fisier de intrare fişier de iesire
-ifstream f(”numere.in”); ofstream g(”numere.out”);
-Crearea unui fisier cu date ce urmeaza a fi citite prin program</description>
-    </item>
-    
-    <item>
-      <title>Greedy</title>
-      <link>https://danielanicolae.com/algoritmi/greedy/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/algoritmi/greedy/</guid>
-      <description>Metoda Greedy
-“De alegerea strategiei depinde atât timpul de rezolvare cât și calitatea soluției gasite“
-1. Descrierea metodei Se dă o mulţime A cu n elemente şi se cere să se determine o submulţime a sa(B) care satisface anumite restricţii. Această submulţime se numeşte soluţie posibilă. Se cere să se determine o soluţie posibilă care fie să maximizeze fie să minimizeze o anumită funcţie obiectiv dată. Această soluţie posibilă se numeşte soluţie optimă.</description>
+Se citesc sirurile: Se afiseaza in BAC.</description>
     </item>
     
     <item>
@@ -158,150 +91,6 @@ Elemente de baza ale limbajului
     </item>
     
     <item>
-      <title>InfoScience - Algoritmi</title>
-      <link>https://danielanicolae.com/algoritmi/infoscience_algoritmi/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/algoritmi/infoscience_algoritmi/</guid>
-      <description>DRUMURI MINIME SI MAXIME IN GRAFURIConsiderăm un graf orientat G=(X,U) cu n noduri, în care fiecărui arc îi este asociat un număr întreg numit cost. Semnificaţia acestui cost poate fi foarte variată, în funcţie de domeniul pe care îl descrie graful. De exemplu, dacă graful reprezintă harta unui oraş în care arcele sunt străzile, iar nodurile sunt intersecţiile dintre stăyi, atunci putem vorbi despre costul deplasării unui automobil între două intersecţii, de-a lungul unei străzi.</description>
-    </item>
-    
-    <item>
-      <title>Liste Liniare</title>
-      <link>https://danielanicolae.com/algoritmi/liste_liniare/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/algoritmi/liste_liniare/</guid>
-      <description>Structurile dinamice de date sunt date structurate ale caror componente se aloca in mod dinamic.
-Avantajul alocarii dinamice fata de alocarea acelorasi structuri de date in mod static (in segmentul de date) sau volatil (in segmentul de stiva) sunt: - memorie suplimentara pentru programe - posibilitatea de a utiliza aceasta memorie Alocarea dinamica a componentelor structurii impune un mecanism prin care o noua componenta aparuta este legata in succesiune logica de corpul structurii deja format pana atunci.</description>
-    </item>
-    
-    <item>
-      <title>Metode de Sortare</title>
-      <link>https://danielanicolae.com/algoritmi/metode_de_sortare/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/algoritmi/metode_de_sortare/</guid>
-      <description>METODE SI TEHNICI DE SORTARE A UNUI VECTOR
-(SORTARE IN ORDINE CRESCATOARE)
-
-1. METODA DE SORTARE PRIN INTERSCHIMBAREAceasta metoda consta in parcurgerea sirului utilizand doi contori (i si j) . Fiecare element a[i]se va compara cu toate elementele din dreapta sa, elemente de forma a[j],cu j=i+1,nDaca a[i]&amp;gt;a[j] atunci cele doua component e se vor interschimbaObs: aceasta metoda nu este eficienta deoarece daca sirul ar fi de la inceput sortat sirul tot se parcurge realizand n(n-1)/2 comparatii ALGORITMUL:Citeste n</description>
-    </item>
-    
-    <item>
-      <title>Metode si Tehnici Clasice de Programare</title>
-      <link>https://danielanicolae.com/algoritmi/metode_tehnici_clasice_programare/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/algoritmi/metode_tehnici_clasice_programare/</guid>
-      <description>POSTLICEALA ANUL I Calificarea: ANALIST PROGRAMATOR MODULUL VIII-Metode şi tehnici clasice de programare METODE ŞI TEHNICI CLASICE DE PROGRAMARE_I.doc
-METODE ŞI TEHNICI CLASICE DE PROGRAMARE_II.doc
-Alte materiale de invatare avizate, elaborate prin proiectul “ Învățământul profesional și tehnic în domeniul TIC”POSDRU/1/1.1/S/4/994 găsiți la adresa http://cndiptfsetic.tvet.ro</description>
-    </item>
-    
-    <item>
-      <title>Parcurgerea Grafurilor</title>
-      <link>https://danielanicolae.com/algoritmi/parcurgerea_grafurilor/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/algoritmi/parcurgerea_grafurilor/</guid>
-      <description>PARCURGEREA GRAFURILOR NEORIENTATE Definiţie Prin parcurgerea (traversarea) grafului se înţelege examinarea în mod sistematic a nodurilor sale, astfel încât fiecare nod să fie atins o singură dată. Procedeul se mai numeşte vizitare.
-Obs.Graful este o structură neliniară de organizare a datelor, rolul traversării este tocmai acela de a determina o “liniarizare” a nodurilor în vederea trecerii de la unul la altul.
-parcurgerea în lăţime:se parcurge mai întâi nodul iniţial, apoi vecinii acestuia, apoi vecinii nevizitaţi ai acestuia, s.</description>
-    </item>
-    
-    <item>
-      <title>Pointeri si Referinte</title>
-      <link>https://danielanicolae.com/algoritmi/pointeri_referinte/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/algoritmi/pointeri_referinte/</guid>
-      <description>Referinte si Pointeri.pdf</description>
-    </item>
-    
-    <item>
-      <title>Programare Orientata pe Obiecte</title>
-      <link>https://danielanicolae.com/algoritmi/programare_orientata_pe_obiecte/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/algoritmi/programare_orientata_pe_obiecte/</guid>
-      <description>Aplicații practice de laborator POO.pdf Curs programare orientată pe obiecte curs poo</description>
-    </item>
-    
-    <item>
-      <title>Programarea Dinamica</title>
-      <link>https://danielanicolae.com/algoritmi/programare_dinamica/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/algoritmi/programare_dinamica/</guid>
-      <description>Programare Dinamica
-Programare dinamica presupune rezolvarea unei probleme prin descompunerea ei in subprobleme si rezolvarea acestora. Spre deosebire de divide-et-impera, subproblemele nu sunt disjuncte, ci se suprapun.
-Pentru a evita recalcularea portiunilor care se suprapun, rezolvarea se face pornind de la cele mai mici subprobleme si folosindu-ne de rezultatul acestora calculam subproblema imediat mai mare. Cele mai mici subprobleme sunt numite subprobleme unitare. Acestea pot fi rezolvate intr-o complexitate constanta, ex: cea mai mare subsecventa dintr-o multime de un singur element.</description>
-    </item>
-    
-    <item>
-      <title>Recursivitate</title>
-      <link>https://danielanicolae.com/algoritmi/recursivitate/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/algoritmi/recursivitate/</guid>
-      <description>Recursivitatea este un mecanism general de elaborare a algoritmilor. O functie se numeste recursiva daca ea se autoapeleaza, fie direct (in definitia ei, se face apel la ea insasi), fie indirect (functia X apeleaza functia Y, care apeleaza functia X).
-Recursivitatea a aparut din necesitati practice date de transcrierea directa a formulelor matematice recursive. Apoi, acest mecanism a fost extins, fiind utilizat in elaborarea multor algoritmi.
-Pornim de la un exemplu : Sa se calculeze n !</description>
-    </item>
-    
-    <item>
-      <title>Roy Warshall, Kruskal, Dijkstra etc.</title>
-      <link>https://danielanicolae.com/algoritmi/roy_warshall_kruskal_dijkstra/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/algoritmi/roy_warshall_kruskal_dijkstra/</guid>
-      <description>Curs-Algoritmica-Grafurilor.pdf
-DIJKSTRA DIJKSTRA.docx</description>
-    </item>
-    
-    <item>
-      <title>Siruri de Caractere</title>
-      <link>https://danielanicolae.com/algoritmi/siruri_de_caractere/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/algoritmi/siruri_de_caractere/</guid>
-      <description>Notiuni teoretice SIRURI DE CARACTERE.doc
-TESTE GRILA TESTE GRILA.docx
-PROBLEME PROPUSE http://info.mcip.ro/?cap=Siruri%20de%20caractere
-
-Probleme backtracking.doc
-PROBLEME REZOLVATE 1. Se citeşte de la tastatură un cuvânt. Să se afişeze numărul iniţial de caractere ale cuvântului şi apoi să se şteargă toate vocalele din cuvânt.
-#include&amp;lt;iostream.h&amp;gt;
-#include&amp;lt;string.h&amp;gt;
-#include&amp;lt;conio.h&amp;gt;
-void main()
-{int i;
-char s[100];
-cout&amp;lt;&amp;lt;&amp;quot;s=&amp;quot;;cin.get(s,100);
-cout&amp;lt;&amp;lt;&amp;quot;Sirul are: &amp;quot;&amp;lt;&amp;lt;strlen(s)&amp;lt;&amp;lt;&amp;quot; caractere&amp;quot;&amp;lt;&amp;lt;endl;
-strlwr(s);
-for(i=0;i&amp;lt;strlen(s);i++)
-if(s[i]==&amp;lsquo;a&amp;rsquo;||s[i]==&amp;lsquo;e&amp;rsquo;||s[i]==&amp;lsquo;i&amp;rsquo;||s[i]==&amp;lsquo;o&amp;rsquo;||s[i]==&amp;lsquo;u&amp;rsquo;)
-strcpy(s+i,s+i+1);
-cout&amp;lt;&amp;lt;&amp;quot;sirul fara vocale=&amp;quot;&amp;lt;&amp;lt;s;
-}
-2. Se citesc de la tastatură 2 şiruri de caractere.</description>
-    </item>
-    
-    <item>
-      <title>Structuri</title>
-      <link>https://danielanicolae.com/algoritmi/structuri/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/algoritmi/structuri/</guid>
-      <description>STRUCTURA LINIARĂ1. a si b retin valorile pentru doua numere intregi citite de la tastatura. Sa se interschimbe valorile celor doua numere.
-2. Cunoscand cele 4 note obtinute de un elev la informatica pe parcursul unui semestru si nota de la teza scrieti un algoritm care sa afiseze media lui.
-3. Fie un numar format din trei cifre. Sa se afiseze cifrele sale incepand cu cifra unitatilor.
-4. Se citeste un numar natural format din 4 cifre.</description>
-    </item>
-    
-    <item>
       <title>Subprograme</title>
       <link>https://danielanicolae.com/algoritmi/subprograme/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
@@ -309,38 +98,6 @@ cout&amp;lt;&amp;lt;&amp;quot;sirul fara vocale=&amp;quot;&amp;lt;&amp;lt;s;
       <guid>https://danielanicolae.com/algoritmi/subprograme/</guid>
       <description>PREZENTARE TEORETICA
 1. Introducere Subprogramele sunt părţi ale unui program, identificabile prin nume, care se pot activa la cerere prin intermediul acestor nume.Prezenţa subprogramelor implică funcţionarea în strânsă legătură a două noţiuni: definiţia unui subprogram şi apelul unui subprogram.Definiţia unui subprogram reprezintă de fapt descrierea unui proces de calcul cu ajutorul variabilelor virtuale (parametri formali) iar apelul unui subprogram nu este altceva decât execuţia procesului de calcul pentru cazuri concrete (cu ajutorul parametrilor reali, (efectivi, actuali) ).</description>
-    </item>
-    
-    <item>
-      <title>Tablouri</title>
-      <link>https://danielanicolae.com/algoritmi/tablouri/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/algoritmi/tablouri/</guid>
-      <description>Tablouri c
-
-Operatii cu vectori: Sume produse, numarariMinime si maximeCautariInserariStergeriPermutari circulareFormari de vectori noiOrdonareInterclasareprobleme rezolvate cu vectori.docx
-APLICATII CU VECTORI v.pdf
-http://info.mcip.ro/?cap=TablourI</description>
-    </item>
-    
-    <item>
-      <title>Tipul Struct</title>
-      <link>https://danielanicolae.com/algoritmi/tipul_struct/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/algoritmi/tipul_struct/</guid>
-      <description>O structura este o colectie de valori eterogene, stocate intr-o zona compacta de memorie.
-Componentele unei structuri, denumite campuri, sunt identificate prin nume simbolice, denumite selectori.
-Campurile unei structuri pot fi de orice tip, simplu sau derivat, dar nu void sau functie.
-Declararea structurilor se face folosind cuvantul cheie struct:
-struct [nume_structura]{
-tip1 membrii;
-tip2 membrii;
-&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;.
-tipn membrii;
-}[lista_declaratori]; variabile de tip structura
-nume_structura saulista_declaratori pot lipsi, dar nu simultan.</description>
     </item>
     
   </channel>

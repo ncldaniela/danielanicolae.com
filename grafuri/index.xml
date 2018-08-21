@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grafuri on Daniela Liliana Nicolae</title>
+    <link>https://danielanicolae.com/grafuri/</link>
+    <description>Recent content in Grafuri on Daniela Liliana Nicolae</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Aug 2018 03:14:29 +0300</lastBuildDate>
+    
+	<atom:link href="https://danielanicolae.com/grafuri/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Grafuri Neorientate</title>
+      <link>https://danielanicolae.com/grafuri/grafuri_neorientate/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/grafuri/grafuri_neorientate/</guid>
+      <description>NOŢIUNI INTRODUCTIVE. DEFINIŢII Grafuri_neorientate.doc METODE DE REPREZENTARE Există mai multe moduri de reprezentare a grafurilor, alegerea făcându-se în funcţie de tipurile de operaţii care urmează să se efectueze:
+1. Matricea de adiacenţă: face o asociere între noduri şi indicii matricei. Este o matrice simentrică faţă de diagonala principală, cu nXn elemente, unde n este numărul de noduri.
+aij= 1, dacă muchia [i,j] există
+0, dacă muchia [i,j] nu există</description>
+    </item>
+    
+    <item>
+      <title>Conexitate in Grafuri Neorientate</title>
+      <link>https://danielanicolae.com/grafuri/conexitate_grafuri_neorientate/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/grafuri/conexitate_grafuri_neorientate/</guid>
+      <description>Algoritmul Roy-Warshall: Exista drum intre nodul x si nodul y?
+#include &amp;lt;iostream&amp;gt; #include &amp;lt;conio.h&amp;gt; using namespace std; int main() { int n, i, a[100][100], j, k, x, y; cout &amp;lt;&amp;lt; &amp;quot;n=&amp;quot;; cin &amp;gt;&amp;gt; n; for (i = 1; i &amp;lt;= n; i++) for (j = 1; j &amp;lt;= n; j++) { cout &amp;lt;&amp;lt; &amp;quot;a[&amp;quot; &amp;lt;&amp;lt; i &amp;lt;&amp;lt; &amp;quot;][&amp;quot; &amp;lt;&amp;lt; j &amp;lt;&amp;lt; &amp;quot;]=&amp;quot;; cin &amp;gt;&amp;gt; a[i][j]; } for (k = 1; k &amp;lt;= n; k++) for (i = 1; i &amp;lt;= n; i++) for (j = 1; j &amp;lt;= n; j++) if (a[i][j] == 0 &amp;amp;&amp;amp; i !</description>
+    </item>
+    
+    <item>
+      <title>Grafuri Orientate</title>
+      <link>https://danielanicolae.com/grafuri/grafuri_orientate/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/grafuri/grafuri_orientate/</guid>
+      <description>NOŢIUNI INTRODUCTIVE. DEFINIŢII Grafuri_orientate.docx
+GRAFURI_ORIENTATE.pdf</description>
+    </item>
+    
+    <item>
+      <title>Parcurgerea Grafurilor</title>
+      <link>https://danielanicolae.com/grafuri/parcurgerea_grafurilor/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/grafuri/parcurgerea_grafurilor/</guid>
+      <description>PARCURGEREA GRAFURILOR NEORIENTATE Definiţie Prin parcurgerea (traversarea) grafului se înţelege examinarea în mod sistematic a nodurilor sale, astfel încât fiecare nod să fie atins o singură dată. Procedeul se mai numeşte vizitare.
+Obs.Graful este o structură neliniară de organizare a datelor, rolul traversării este tocmai acela de a determina o “liniarizare” a nodurilor în vederea trecerii de la unul la altul.
+parcurgerea în lăţime:se parcurge mai întâi nodul iniţial, apoi vecinii acestuia, apoi vecinii nevizitaţi ai acestuia, s.</description>
+    </item>
+    
+    <item>
+      <title>Drumuri Minime si Maxime in Grafuri</title>
+      <link>https://danielanicolae.com/grafuri/drumuri_minime_maxime_grafuri/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/grafuri/drumuri_minime_maxime_grafuri/</guid>
+      <description>DRUMURI MINIME SI MAXIME IN GRAFURIConsiderăm un graf orientat G=(X,U) cu n noduri, în care fiecărui arc îi este asociat un număr întreg numit cost. Semnificaţia acestui cost poate fi foarte variată, în funcţie de domeniul pe care îl descrie graful. De exemplu, dacă graful reprezintă harta unui oraş în care arcele sunt străzile, iar nodurile sunt intersecţiile dintre stăyi, atunci putem vorbi despre costul deplasării unui automobil între două intersecţii, de-a lungul unei străzi.</description>
+    </item>
+    
+    <item>
+      <title>Roy Warshall, Kruskal, Dijkstra etc.</title>
+      <link>https://danielanicolae.com/grafuri/roy_warshall_kruskal_dijkstra/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/grafuri/roy_warshall_kruskal_dijkstra/</guid>
+      <description>Curs-Algoritmica-Grafurilor.pdf
+DIJKSTRA DIJKSTRA.docx</description>
+    </item>
+    
+    <item>
+      <title>Arbori</title>
+      <link>https://danielanicolae.com/grafuri/arbori/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/grafuri/arbori/</guid>
+      <description>Fie un graf neorientat G=(V,U), unde V e mulțimea vârfurilor, iar U cea a muchiilor sale. Următoarele afirmații sunt echivalente:
+1. Geste arbore.
+2. Geste un graf conex minimal („minimal” se numește proprietatea unui graf, că dacă i se elimină orice muchie, se obține un graf neconex).
+3. Geste un graf fără cicluri maximal („maximal” se numește proprietatea unui graf, că dacă i se adaugă orice muchie, se obține un graf care are măcar un ciclu, și deci nu e arbore).</description>
+    </item>
+    
+    <item>
+      <title>Arbori de Cautare</title>
+      <link>https://danielanicolae.com/grafuri/arbori_de_cautare/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/grafuri/arbori_de_cautare/</guid>
+      <description>Arbori de cautare.docx
+B TREES
+b-trees.ppt
+DEFINITII COMPLEXE
+arbori.pdf</description>
+    </item>
+    
+  </channel>
+</rss>

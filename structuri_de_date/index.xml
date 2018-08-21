@@ -12,50 +12,101 @@
     
     
     <item>
-      <title>Arbori</title>
-      <link>https://danielanicolae.com/structuri_de_date/arbori/</link>
+      <title>Tablouri</title>
+      <link>https://danielanicolae.com/structuri_de_date/tablouri/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://danielanicolae.com/structuri_de_date/arbori/</guid>
-      <description>Fie un graf neorientat G=(V,U), unde V e mulțimea vârfurilor, iar U cea a muchiilor sale. Următoarele afirmații sunt echivalente:
-1. Geste arbore.
-2. Geste un graf conex minimal („minimal” se numește proprietatea unui graf, că dacă i se elimină orice muchie, se obține un graf neconex).
-3. Geste un graf fără cicluri maximal („maximal” se numește proprietatea unui graf, că dacă i se adaugă orice muchie, se obține un graf care are măcar un ciclu, și deci nu e arbore).</description>
+      <guid>https://danielanicolae.com/structuri_de_date/tablouri/</guid>
+      <description>Tablouri c
+
+Operatii cu vectori: Sume produse, numarariMinime si maximeCautariInserariStergeriPermutari circulareFormari de vectori noiOrdonareInterclasareprobleme rezolvate cu vectori.docx
+APLICATII CU VECTORI v.pdf
+http://info.mcip.ro/?cap=TablourI</description>
     </item>
     
     <item>
-      <title>Arbori de Cautare</title>
-      <link>https://danielanicolae.com/structuri_de_date/arbori_de_cautare/</link>
+      <title>Fisiere Text</title>
+      <link>https://danielanicolae.com/structuri_de_date/fisiere_text/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://danielanicolae.com/structuri_de_date/arbori_de_cautare/</guid>
-      <description>Arbori de cautare.docx
-B TREES
-b-trees.ppt
-DEFINITII COMPLEXE
-arbori.pdf</description>
+      <guid>https://danielanicolae.com/structuri_de_date/fisiere_text/</guid>
+      <description>Declararea, închiderea şi deschiderea fişierelor în C++ utilizează anumite clase şi funcţii care sunt declarate în biblioteca fstream.h.
+#include&amp;lt;fstream.h&amp;gt;
+Declararea fişierelor
+Pentru a putea citi/scrie informaţii dintr-un/într-un fişier, acesta se asociază unui stream (flux) de intrare/ieşire.
+ifstream nume_fişier_logic (nume_fişier);deschiderea unui fisier pentr a citi date
+ofstream nume_fişier_logic (nume_fişier);
+deschiderea unui fisier pentru a scrie date
+Exemplu:
+fisier de intrare fişier de iesire
+ifstream f(”numere.in”); ofstream g(”numere.out”);
+Crearea unui fisier cu date ce urmeaza a fi citite prin program</description>
     </item>
     
     <item>
-      <title>Grafuri Neorientate</title>
-      <link>https://danielanicolae.com/structuri_de_date/grafuri_neorientate/</link>
+      <title>Siruri de Caractere</title>
+      <link>https://danielanicolae.com/structuri_de_date/siruri_de_caractere/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://danielanicolae.com/structuri_de_date/grafuri_neorientate/</guid>
-      <description>NOŢIUNI INTRODUCTIVE. DEFINIŢII Grafuri_neorientate.doc METODE DE REPREZENTARE Există mai multe moduri de reprezentare a grafurilor, alegerea făcându-se în funcţie de tipurile de operaţii care urmează să se efectueze:
-1. Matricea de adiacenţă: face o asociere între noduri şi indicii matricei. Este o matrice simentrică faţă de diagonala principală, cu nXn elemente, unde n este numărul de noduri.
-aij= 1, dacă muchia [i,j] există
-0, dacă muchia [i,j] nu există</description>
+      <guid>https://danielanicolae.com/structuri_de_date/siruri_de_caractere/</guid>
+      <description>Notiuni teoretice SIRURI DE CARACTERE.doc
+TESTE GRILA TESTE GRILA.docx
+PROBLEME PROPUSE http://info.mcip.ro/?cap=Siruri%20de%20caractere
+
+Probleme backtracking.doc
+PROBLEME REZOLVATE 1. Se citeşte de la tastatură un cuvânt. Să se afişeze numărul iniţial de caractere ale cuvântului şi apoi să se şteargă toate vocalele din cuvânt.
+#include
+#include
+#include
+void main()
+{int i;
+char s[100];
+cout&amp;lt;&amp;lt;&amp;ldquo;s=&amp;rdquo;;cin.get(s,100);
+cout&amp;lt;&amp;lt;&amp;ldquo;Sirul are: &amp;ldquo;&amp;lt;strlwr(s);
+for(i=0;i
+if(s[i]==&amp;lsquo;a&amp;rsquo;||s[i]==&amp;lsquo;e&amp;rsquo;||s[i]==&amp;lsquo;i&amp;rsquo;||s[i]==&amp;lsquo;o&amp;rsquo;||s[i]==&amp;lsquo;u&amp;rsquo;)
+strcpy(s+i,s+i+1);
+cout&amp;lt;&amp;lt;&amp;ldquo;sirul fara vocale=&amp;rdquo;&amp;lt;
+}
+2. Se citesc de la tastatură 2 şiruri de caractere.</description>
     </item>
     
     <item>
-      <title>Grafuri Orientate</title>
-      <link>https://danielanicolae.com/structuri_de_date/grafuri_orientate/</link>
+      <title>Tipul Struct</title>
+      <link>https://danielanicolae.com/structuri_de_date/tipul_struct/</link>
       <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
       
-      <guid>https://danielanicolae.com/structuri_de_date/grafuri_orientate/</guid>
-      <description>NOŢIUNI INTRODUCTIVE. DEFINIŢII Grafuri_orientate.docx
-GRAFURI_ORIENTATE.pdf</description>
+      <guid>https://danielanicolae.com/structuri_de_date/tipul_struct/</guid>
+      <description>O structura este o colectie de valori eterogene, stocate intr-o zona compacta de memorie.
+Componentele unei structuri, denumite campuri, sunt identificate prin nume simbolice, denumite selectori.
+Campurile unei structuri pot fi de orice tip, simplu sau derivat, dar nu void sau functie.
+Declararea structurilor se face folosind cuvantul cheie struct:
+struct [nume_structura]{
+tip1 membrii;
+tip2 membrii;
+&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;.
+tipn membrii;
+}[lista_declaratori]; variabile de tip structura
+nume_structura saulista_declaratori pot lipsi, dar nu simultan.</description>
+    </item>
+    
+    <item>
+      <title>Liste Liniare</title>
+      <link>https://danielanicolae.com/structuri_de_date/liste_liniare/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/structuri_de_date/liste_liniare/</guid>
+      <description>Structurile dinamice de date sunt date structurate ale caror componente se aloca in mod dinamic.
+Avantajul alocarii dinamice fata de alocarea acelorasi structuri de date in mod static (in segmentul de date) sau volatil (in segmentul de stiva) sunt: - memorie suplimentara pentru programe - posibilitatea de a utiliza aceasta memorie Alocarea dinamica a componentelor structurii impune un mecanism prin care o noua componenta aparuta este legata in succesiune logica de corpul structurii deja format pana atunci.</description>
+    </item>
+    
+    <item>
+      <title>Pointeri si Referinte</title>
+      <link>https://danielanicolae.com/structuri_de_date/pointeri_referinte/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/structuri_de_date/pointeri_referinte/</guid>
+      <description>Referinte si Pointeri.pdf</description>
     </item>
     
   </channel>

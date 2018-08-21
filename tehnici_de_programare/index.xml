@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tehnici de Programare on Daniela Liliana Nicolae</title>
+    <link>https://danielanicolae.com/tehnici_de_programare/</link>
+    <description>Recent content in Tehnici de Programare on Daniela Liliana Nicolae</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Aug 2018 03:14:29 +0300</lastBuildDate>
+    
+	<atom:link href="https://danielanicolae.com/tehnici_de_programare/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recursivitate</title>
+      <link>https://danielanicolae.com/tehnici_de_programare/recursivitate/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/tehnici_de_programare/recursivitate/</guid>
+      <description>Recursivitatea este un mecanism general de elaborare a algoritmilor. O functie se numeste recursiva daca ea se autoapeleaza, fie direct (in definitia ei, se face apel la ea insasi), fie indirect (functia X apeleaza functia Y, care apeleaza functia X).
+Recursivitatea a aparut din necesitati practice date de transcrierea directa a formulelor matematice recursive. Apoi, acest mecanism a fost extins, fiind utilizat in elaborarea multor algoritmi.
+Pornim de la un exemplu : Sa se calculeze n !</description>
+    </item>
+    
+    <item>
+      <title>Backtracking</title>
+      <link>https://danielanicolae.com/tehnici_de_programare/backtracking/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/tehnici_de_programare/backtracking/</guid>
+      <description>Metoda backtracking se aplica problemelor in care solutia se poate prezenta sub forma unui vector x={x1,x2,…,xn} unde x1 apartine unei multimi S1, x2 apartine multimii S2 s.a.m.d.Si i=1…n sunt multimi finite. Cerinta problemei este, de obicei, gasirea tuturor solutiilor posibile sau gasirea numarului de solutii care satisfac anumite conditii specifice problemei. De multe ori metoda se foloseste si pentru gasirea unei singure solutii (dupa gasirea acesteia se intrerupe executia programului), a unei solutii maxime/minime insa, pentru astfel de cazuri recomandam gasirea unei alte solutii de rezolvare datorita faptului ca metoda Backtracking consuma resurse mari de memorie si timp.</description>
+    </item>
+    
+    <item>
+      <title>Divide et Impera</title>
+      <link>https://danielanicolae.com/tehnici_de_programare/divide_et_impera/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/tehnici_de_programare/divide_et_impera/</guid>
+      <description>Divide et impera se bazează pe principiul descompunerii problemei în două sau mai multe subprobleme (mai ușoare), care se rezolvă, iar soluția pentru problema inițială se obține combinând soluțiile subproblemelor. De multe ori, subproblemele sunt de același tip și pentru fiecare din ele se poate aplica aceeași tactică a descompunerii în (alte) subprobleme, până când (în urma descompunerilor repetate) se ajunge la probleme care admit rezolvare imediată.
+Nu toate problemele pot fi rezolvate prin utilizarea acestei tehnici.</description>
+    </item>
+    
+    <item>
+      <title>Greedy</title>
+      <link>https://danielanicolae.com/tehnici_de_programare/greedy/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/tehnici_de_programare/greedy/</guid>
+      <description>Metoda Greedy
+“De alegerea strategiei depinde atât timpul de rezolvare cât și calitatea soluției gasite“
+1. Descrierea metodei Se dă o mulţime A cu n elemente şi se cere să se determine o submulţime a sa(B) care satisface anumite restricţii. Această submulţime se numeşte soluţie posibilă. Se cere să se determine o soluţie posibilă care fie să maximizeze fie să minimizeze o anumită funcţie obiectiv dată. Această soluţie posibilă se numeşte soluţie optimă.</description>
+    </item>
+    
+    <item>
+      <title>Metode de Sortare</title>
+      <link>https://danielanicolae.com/tehnici_de_programare/metode_de_sortare/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/tehnici_de_programare/metode_de_sortare/</guid>
+      <description>METODE SI TEHNICI DE SORTARE A UNUI VECTOR
+(SORTARE IN ORDINE CRESCATOARE)
+
+1. METODA DE SORTARE PRIN INTERSCHIMBAREAceasta metoda consta in parcurgerea sirului utilizand doi contori (i si j) . Fiecare element a[i]se va compara cu toate elementele din dreapta sa, elemente de forma a[j],cu j=i+1,nDaca a[i]&amp;gt;a[j] atunci cele doua component e se vor interschimbaObs: aceasta metoda nu este eficienta deoarece daca sirul ar fi de la inceput sortat sirul tot se parcurge realizand n(n-1)/2 comparatii ALGORITMUL:Citeste n</description>
+    </item>
+    
+    <item>
+      <title>Programarea Dinamica</title>
+      <link>https://danielanicolae.com/tehnici_de_programare/programare_dinamica/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/tehnici_de_programare/programare_dinamica/</guid>
+      <description>Programare Dinamica
+Programare dinamica presupune rezolvarea unei probleme prin descompunerea ei in subprobleme si rezolvarea acestora. Spre deosebire de divide-et-impera, subproblemele nu sunt disjuncte, ci se suprapun.
+Pentru a evita recalcularea portiunilor care se suprapun, rezolvarea se face pornind de la cele mai mici subprobleme si folosindu-ne de rezultatul acestora calculam subproblema imediat mai mare. Cele mai mici subprobleme sunt numite subprobleme unitare. Acestea pot fi rezolvate intr-o complexitate constanta, ex: cea mai mare subsecventa dintr-o multime de un singur element.</description>
+    </item>
+    
+    <item>
+      <title>Metode si Tehnici Clasice de Programare</title>
+      <link>https://danielanicolae.com/tehnici_de_programare/metode_tehnici_clasice_programare/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/tehnici_de_programare/metode_tehnici_clasice_programare/</guid>
+      <description>POSTLICEALA ANUL I Calificarea: ANALIST PROGRAMATOR MODULUL VIII-Metode şi tehnici clasice de programare METODE ŞI TEHNICI CLASICE DE PROGRAMARE_I.doc
+METODE ŞI TEHNICI CLASICE DE PROGRAMARE_II.doc
+Alte materiale de invatare avizate, elaborate prin proiectul “ Învățământul profesional și tehnic în domeniul TIC”POSDRU/1/1.1/S/4/994 găsiți la adresa http://cndiptfsetic.tvet.ro</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -209,58 +209,5 @@ Funcţii uzuale asupra tuturor tipurilor de date:
    MIN (,)</description>
     </item>
     
-    <item>
-      <title>Baze de Date</title>
-      <link>https://danielanicolae.com/diverse/baze_de_date/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/diverse/baze_de_date/</guid>
-      <description>Proiectarea bazelor de date from aaa zAZ</description>
-    </item>
-    
-    <item>
-      <title>SQL</title>
-      <link>https://danielanicolae.com/diverse/sql/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/diverse/sql/</guid>
-      <description>Curs Bd.pdf APLICATII TEST 1.docx MEMENTO Limbajul SQL.pdf
-TEST 2.docx teste grila sql.pdf</description>
-    </item>
-    
-    <item>
-      <title>Oracle</title>
-      <link>https://danielanicolae.com/diverse/oracle/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/diverse/oracle/</guid>
-      <description>Comanda UPDATE Comanda UPDATEeste folosită pentru a modifica valorile datelor existente în tabele. 
-Sintaxa uzuală a comenzii UPDATE prezintă următoarele variante:
-1)
-UPDATE tabel 
-SET coloana1 = expresie1,
-coloana2 = expresie2, &amp;hellip;
-[WHERE condiţie];
-2)
-UPDATE tabel 
-SET coloana1 = expresie1,
-coloana2 = expresie2, &amp;hellip;
-FROM tabele_cuplate
-[WHERE condiţie];
-Clauza FROM este o extensie specifica SQL Server, inexistenta în standardul SQL92 . Prin această extensie se poate specifica o cuplare de mai multe tabele care se poate folosi în locul unei fraze Select imbricată în clauza WHERE.</description>
-    </item>
-    
-    <item>
-      <title>Access</title>
-      <link>https://danielanicolae.com/diverse/access/</link>
-      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
-      
-      <guid>https://danielanicolae.com/diverse/access/</guid>
-      <description>Microsoft Access 2007.ppt
-Interogări (Query) Interogările reprezintă modalităţi de selecţie şi afişare a informaţie din unul sau mai multe surse (tabele sau alte interogări), formulate cu ajutorul unor condiţii logice. 
-Tipuri de interogări În funcţie de modul de definire şi rezultatele acţiunii, interogarile pot fi clasificate astfel:
-interogări simple sau de selecţie (folosind condiţii logice);interogări pentru actualizare - delete query, update query şi append query;interogări încrucişate sau bidimensionale.</description>
-    </item>
-    
   </channel>
 </rss>

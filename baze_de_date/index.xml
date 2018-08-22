@@ -64,5 +64,53 @@ Tipuri de interogări În funcţie de modul de definire şi rezultatele acţiuni
 interogări simple sau de selecţie (folosind condiţii logice);interogări pentru actualizare - delete query, update query şi append query;interogări încrucişate sau bidimensionale.</description>
     </item>
     
+    <item>
+      <title>FoxPRO</title>
+      <link>https://danielanicolae.com/baze_de_date/foxpro/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/baze_de_date/foxpro/</guid>
+      <description>Baze de Date in Visual Foxpro.pdf SGBD.pdf Visual-Foxpro-Decriptat.pdf  FOXPRO_SUPORT_DE_CURS.pdfVisual_Fox_Pro1.doc
+Comenzi_Fox_Pro.docVisual_FoxPro2.doc  PROGRAMARE STRUCTURATA-INSTRUCTIUNI.docx SUBPROGRAME.docx TESTE TEST.pdf
+TEST1.doc
+TEST2.doc
+TEST3.doc
+TEST4.doc
+TEST5.doc
+TEST6.doc
+FISE DE LUCRU aplicatii foxpro.doc
+FISA DE LUCRU1.pdf
+FISE DE LUCRU 3.pdf
+FISE DE LUCRU 2.pdf
+FISE DE LUCRU.pdfAPLICATII CU SUBPROGRAME.docx</description>
+    </item>
+    
+    <item>
+      <title>Programare FoxPRO</title>
+      <link>https://danielanicolae.com/baze_de_date/programare_foxpro/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/baze_de_date/programare_foxpro/</guid>
+      <description>Mecanismele programarii în Visual FoxPro
+Programarea în Visual FoxPro implica scrierea unor secvente de cod: instructiuni sub forma de comenzi, functii sau operatii pe care Visual FoxPro le poate interpreta. Acestea pot fi introduse în:
+- fisiere de programe;
+- ferestre de cod pentru evenimente sau metode în cadrul proiectantului de formulare (Form Designer) sau al proiectantului de clase (Class Designer);
+- ferestre procedurale în cadrul proiectantului de meniuri (Menu Designer);</description>
+    </item>
+    
+    <item>
+      <title>Tipuri de Date in FoxPRO</title>
+      <link>https://danielanicolae.com/baze_de_date/tipuri_de_date_foxpro/</link>
+      <pubDate>Mon, 20 Aug 2018 03:16:20 +0300</pubDate>
+      
+      <guid>https://danielanicolae.com/baze_de_date/tipuri_de_date_foxpro/</guid>
+      <description>Tipuri de date şi funcţii standardîn FoxPro
+Datele cu care lucrează FoxPro sunt de tip numeric, caracter, data calendaristică, logic. Asupra acestor tipuri de date s-au definit operaţii specifice şi au fost realizate funcţii standard dintre care cele mai des folosite vor fi explicate în continuare.
+Funcţii uzuale asupra tuturor tipurilor de date:
+ MAX (,)
+ calculează maximul dintre două valori  şi 
+   MIN (,)</description>
+    </item>
+    
   </channel>
 </rss>
